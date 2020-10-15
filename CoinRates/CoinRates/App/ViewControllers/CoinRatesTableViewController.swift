@@ -6,4 +6,8 @@ class CoinRatesTableViewController: UITableViewController {
     private let exchangeRatesHandler: BitcoinRateHandler
     
     init(exchangeRatesHandler: BitcoinRateHandler) {
-      
+        self.exchangeRatesHandler = exchangeRatesHandler
+        super.init(nibName: nil, bundle: nil)
+    }
+    
+ 
