@@ -20,4 +20,8 @@ class CoinRatesTableViewController: UITableViewController {
         
         navigationItem.title = "Bitcoint Exchange Rates"
         tableView.allowsSelection = false
-        tableView.regis
+        tableView.register(CoinRateTableViewCell.self, forCellReuseIdentifier: exchangeRatesCellID)
+        
+        updateTableView()
+    }
+  
