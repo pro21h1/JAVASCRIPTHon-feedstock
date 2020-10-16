@@ -18,4 +18,6 @@ class CoinRatesTableViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        na
+        navigationItem.title = "Bitcoint Exchange Rates"
+        tableView.allowsSelection = false
+        tableView.regis
