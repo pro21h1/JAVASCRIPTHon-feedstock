@@ -32,4 +32,8 @@ class CoinRatesTableViewController: UITableViewController {
     }
     
     // MARK: UITableView Delegate & DataSource
-    override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int
+    override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        return exchangeRates.count
+    }
+    
+    override func tableView(_ tableView: UITableView, cellForRowAt indexP
