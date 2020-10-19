@@ -44,4 +44,6 @@ class CoinRatesTableViewController: UITableViewController {
     
     // MARK: Private Methods
     private func updateTableView() {
-        
+        exchangeRatesHandler.fetchRatesForEUR() {[weak self] result in
+            DispatchQueue.main.async {
+           
