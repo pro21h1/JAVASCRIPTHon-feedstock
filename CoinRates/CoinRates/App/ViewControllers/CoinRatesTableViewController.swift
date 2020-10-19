@@ -38,4 +38,10 @@ class CoinRatesTableViewController: UITableViewController {
     
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: exchangeRatesCellID) as! CoinRateTableViewCell
-        cell.cellViewModel = CoinRateCellViewModel(exchangeRate: exchangeRates[inde
+        cell.cellViewModel = CoinRateCellViewModel(exchangeRate: exchangeRates[indexPath.row])
+        return cell
+    }
+    
+    // MARK: Private Methods
+    private func updateTableView() {
+        
