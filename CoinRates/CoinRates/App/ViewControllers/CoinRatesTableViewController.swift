@@ -51,4 +51,9 @@ class CoinRatesTableViewController: UITableViewController {
                     self?.exchangeRates = exchangeRates
                     self?.tableView.reloadData()
                 case .failure(let error):
-                   
+                    self?.showErrorAlert(message: error.localizedDescription)
+                }
+            }
+        }
+    }
+   
