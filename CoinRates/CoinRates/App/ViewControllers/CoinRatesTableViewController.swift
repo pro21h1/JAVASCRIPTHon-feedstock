@@ -48,4 +48,7 @@ class CoinRatesTableViewController: UITableViewController {
             DispatchQueue.main.async {
                 switch result {
                 case .success(let exchangeRates):
-                    self?.exchangeRates = exchange
+                    self?.exchangeRates = exchangeRates
+                    self?.tableView.reloadData()
+                case .failure(let error):
+                   
