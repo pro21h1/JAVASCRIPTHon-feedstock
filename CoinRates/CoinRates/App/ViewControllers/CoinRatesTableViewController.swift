@@ -46,4 +46,6 @@ class CoinRatesTableViewController: UITableViewController {
     private func updateTableView() {
         exchangeRatesHandler.fetchRatesForEUR() {[weak self] result in
             DispatchQueue.main.async {
-           
+                switch result {
+                case .success(let exchangeRates):
+                    self?.exchangeRates = exchange
