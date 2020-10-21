@@ -56,4 +56,6 @@ class CoinRatesTableViewController: UITableViewController {
             }
         }
     }
-   
+    
+    private func showErrorAlert(message: String) {
+        let alertController = UIAlertController(title: "Error", me
