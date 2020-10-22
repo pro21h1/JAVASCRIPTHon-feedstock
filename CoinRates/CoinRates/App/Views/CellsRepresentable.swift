@@ -7,4 +7,5 @@ protocol CoinRateCellRepresentable {
 
 protocol CellConfigurable: class {
     associatedtype CellViewModel
-    var cellViewModel: CellVi
+    var cellViewModel: CellViewModel? { get set }
+}
