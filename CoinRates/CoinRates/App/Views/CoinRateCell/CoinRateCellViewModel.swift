@@ -6,4 +6,7 @@ class CoinRateCellViewModel: CoinRateCellRepresentable {
     
     init(exchangeRate: ExchangeRate) {
         date = exchangeRate.date.formattedString()
-  
+        rate = "\(exchangeRate.rate) \(exchangeRate.currency)"
+    }
+    
+}
