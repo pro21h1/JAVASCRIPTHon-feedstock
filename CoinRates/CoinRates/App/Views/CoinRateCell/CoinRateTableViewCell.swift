@@ -17,4 +17,7 @@ class CoinRateTableViewCell: UITableViewCell {
     
     let rateLabel: UILabel = {
         let label = UILabel()
-        label.font = UIF
+        label.font = UIFont.italicSystemFont(ofSize: 16)
+        label.textColor = .darkGray
+        label.numberOfLines = 0
+       
