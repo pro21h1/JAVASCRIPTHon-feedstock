@@ -27,4 +27,9 @@ class CoinRateTableViewCell: UITableViewCell {
     var cellViewModel: CoinRateCellViewModel? {
         didSet {
             guard let cellViewModel = cellViewModel else { return }
-       
+            dateLabel.text = cellViewModel.date
+            rateLabel.text = cellViewModel.rate
+        }
+    }
+    
+    @av
