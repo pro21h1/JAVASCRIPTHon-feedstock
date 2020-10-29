@@ -20,4 +20,8 @@ class CoinRateTableViewCell: UITableViewCell {
         label.font = UIFont.italicSystemFont(ofSize: 16)
         label.textColor = .darkGray
         label.numberOfLines = 0
-       
+        label.translatesAutoresizingMaskIntoConstraints = false
+        return label
+    }()
+    
+    var cellViewModel: CoinRateCe
