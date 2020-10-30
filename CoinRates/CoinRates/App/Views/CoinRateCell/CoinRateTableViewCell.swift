@@ -38,4 +38,8 @@ class CoinRateTableViewCell: UITableViewCell {
     }
     
     override init(style: UITableViewCellStyle, reuseIdentifier: String?) {
-     
+        super.init(style: style, reuseIdentifier: reuseIdentifier)
+        setupViews()
+    }
+    
+    pri
