@@ -42,4 +42,8 @@ class CoinRateTableViewCell: UITableViewCell {
         setupViews()
     }
     
-    pri
+    private func setupViews() {
+        addSubview(dateLabel)
+        addSubview(rateLabel)
+        
+        NSLayo
