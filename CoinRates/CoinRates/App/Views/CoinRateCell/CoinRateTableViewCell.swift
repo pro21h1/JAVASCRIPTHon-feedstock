@@ -46,4 +46,5 @@ class CoinRateTableViewCell: UITableViewCell {
         addSubview(dateLabel)
         addSubview(rateLabel)
         
-        NSLayo
+        NSLayoutConstraint.activate([
+            dateLabel.leadingAnchor.constraint(equalTo: leadingAnchor, co
