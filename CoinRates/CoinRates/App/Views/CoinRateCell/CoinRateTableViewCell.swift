@@ -54,4 +54,7 @@ class CoinRateTableViewCell: UITableViewCell {
             rateLabel.leadingAnchor.constraint(equalTo: leadingAnchor, constant: layoutMargins.left),
             rateLabel.topAnchor.constraint(equalTo: dateLabel.bottomAnchor, constant: 8),
             rateLabel.trailingAnchor.constraint(equalTo: trailingAnchor, constant: -layoutMargins.right),
-            rateLabel.bottomAnchor.constraint(equalTo: botto
+            rateLabel.bottomAnchor.constraint(equalTo: bottomAnchor, constant: -8)
+            ])
+    }
+}
