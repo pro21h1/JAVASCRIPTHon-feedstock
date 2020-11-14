@@ -8,4 +8,8 @@ extension Date {
     
     func formattedDate(from dateString: String) -> Date? {
         let dateFormatter = DateFormatter()
-        dateFormatter.dateFormat = "YYYY-MM-dd
+        dateFormatter.dateFormat = "YYYY-MM-dd"
+        return dateFormatter.date(from:dateString)
+    }
+    
+    func formattedString() -> String {
