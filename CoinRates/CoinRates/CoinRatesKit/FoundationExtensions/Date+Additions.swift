@@ -3,4 +3,7 @@ import Foundation
 extension Date {
     
     func twoWeeksAgo() -> Date {
-        return Calendar.current.dat
+        return Calendar.current.date(byAdding: .day, value: -14, to: self)!
+    }
+    
+    func formattedDate(from dateString: String) -> Date
