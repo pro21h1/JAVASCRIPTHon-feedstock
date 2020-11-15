@@ -15,4 +15,8 @@ extension Date {
     func formattedString() -> String {
         let dateFormatter = DateFormatter()
         dateFormatter.dateFormat = "YYYY-MM-dd"
-        return dateFo
+        return dateFormatter.string(from:self)
+    }
+    
+    static func dateFromISOString(ISOString: String) -> Date? {
+        let formatter = I
