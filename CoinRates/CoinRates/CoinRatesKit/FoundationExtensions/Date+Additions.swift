@@ -19,4 +19,6 @@ extension Date {
     }
     
     static func dateFromISOString(ISOString: String) -> Date? {
-        let formatter = I
+        let formatter = ISO8601DateFormatter()
+        formatter.timeZone = TimeZone(abbreviation: "UTC")
+        return formatter.date(from: ISOStri
