@@ -1,3 +1,5 @@
 import Foundation
 
-pro
+protocol ExchangeRateDataStore {
+    func addExchangeRates(exchangeRates: [ExchangeRate])
+    func fetchExchangeRate
