@@ -9,4 +9,7 @@ public class ExchangeRateDataStoreDiskUserPrefs: ExchangeRateDataStore {
     
     func addExchangeRates(exchangeRates: [ExchangeRate]) {
         let dictionaries = exchangeRates.map { exchangeRate in
-            return [exc
+            return [exchangeRate.date.formattedString(): exchangeRate.rate]
+        }
+        
+        UserDefaults.standard.se
