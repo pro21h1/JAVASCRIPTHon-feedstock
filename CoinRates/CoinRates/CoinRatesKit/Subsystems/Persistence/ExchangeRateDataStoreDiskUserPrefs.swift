@@ -7,4 +7,6 @@ public class ExchangeRateDataStoreDiskUserPrefs: ExchangeRateDataStore {
         self.currency = currency
     }
     
-    func addExchangeRates(exch
+    func addExchangeRates(exchangeRates: [ExchangeRate]) {
+        let dictionaries = exchangeRates.map { exchangeRate in
+            return [exc
