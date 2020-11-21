@@ -12,4 +12,8 @@ public class ExchangeRateDataStoreDiskUserPrefs: ExchangeRateDataStore {
             return [exchangeRate.date.formattedString(): exchangeRate.rate]
         }
         
-        UserDefaults.standard.se
+        UserDefaults.standard.set(dictionaries, forKey: "exchangeRates")
+        UserDefaults.standard.synchronize()
+    }
+    
+    func fetchExcha
