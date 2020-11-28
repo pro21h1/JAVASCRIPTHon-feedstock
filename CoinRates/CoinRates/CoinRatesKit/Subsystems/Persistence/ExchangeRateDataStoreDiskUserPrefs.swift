@@ -16,4 +16,5 @@ public class ExchangeRateDataStoreDiskUserPrefs: ExchangeRateDataStore {
         UserDefaults.standard.synchronize()
     }
     
-    func fetchExcha
+    func fetchExchangeRates() -> [ExchangeRate] {
+        guard let dictionaries = UserDefaults.standard.array(forKey: "exchangeRat
