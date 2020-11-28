@@ -7,4 +7,8 @@ public enum Result<ValueType> {
     case failure(Error)
     
     public var value: ValueType? {
- 
+        switch self {
+        case .success(let value):
+            return value
+        case .failure:
+   
