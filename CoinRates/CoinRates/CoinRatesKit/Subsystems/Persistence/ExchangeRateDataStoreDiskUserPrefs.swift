@@ -17,4 +17,7 @@ public class ExchangeRateDataStoreDiskUserPrefs: ExchangeRateDataStore {
     }
     
     func fetchExchangeRates() -> [ExchangeRate] {
-        guard let dictionaries = UserDefaults.standard.array(forKey: "exchangeRat
+        guard let dictionaries = UserDefaults.standard.array(forKey: "exchangeRates") as? [[String: Any]] else {
+            return []
+        }
+        let estates = dictionaries.flatMap {Exchange
