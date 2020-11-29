@@ -11,4 +11,10 @@ public enum Result<ValueType> {
         case .success(let value):
             return value
         case .failure:
-   
+            return nil
+        }
+    }
+    
+    public var error: Error? {
+        switch self {
+        case .success:
