@@ -18,3 +18,11 @@ public enum Result<ValueType> {
     public var error: Error? {
         switch self {
         case .success:
+            return nil
+        case .failure(let error):
+            return error
+        }
+    }
+}
+
+public enum CoinRatesError: E
