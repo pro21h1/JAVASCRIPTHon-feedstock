@@ -25,4 +25,8 @@ public enum Result<ValueType> {
     }
 }
 
-public enum CoinRatesError: E
+public enum CoinRatesError: Error {
+    case NoHTTPResponse
+    case HTTPError(statusCode: Int, errorDescription: String?)
+    case NoData
+   
