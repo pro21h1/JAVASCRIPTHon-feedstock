@@ -34,4 +34,5 @@ public enum CoinRatesError: Error {
 }
 
 public enum URLPaths: String {
-    case coindeskHistoricalRate
+    case coindeskHistoricalRate = "https://api.coindesk.com/v1/bpi/historical/close.json"
+    case coindeskCurrentRate = "https://api.coindesk.com/v1/bpi/curr
