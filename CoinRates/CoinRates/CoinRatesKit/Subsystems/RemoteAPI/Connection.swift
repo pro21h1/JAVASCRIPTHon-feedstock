@@ -29,4 +29,9 @@ public enum CoinRatesError: Error {
     case NoHTTPResponse
     case HTTPError(statusCode: Int, errorDescription: String?)
     case NoData
-   
+    case JSONConversionFailed
+    case InvalidPath
+}
+
+public enum URLPaths: String {
+    case coindeskHistoricalRate
