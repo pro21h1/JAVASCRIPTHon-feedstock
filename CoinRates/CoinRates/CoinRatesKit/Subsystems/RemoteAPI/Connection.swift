@@ -39,4 +39,5 @@ public enum URLPaths: String {
 }
 
 protocol Connection {
-    func fetchHistoricalRate(forCurrency currency: Currency, from startDat
+    func fetchHistoricalRate(forCurrency currency: Currency, from startDate: Date, to endDate: Date, completion: @escaping (Result<JSON>) -> ())
+    func fetchCurrentRate(forCurrenc
