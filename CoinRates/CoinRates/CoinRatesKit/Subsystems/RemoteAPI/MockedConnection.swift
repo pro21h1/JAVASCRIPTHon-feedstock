@@ -2,4 +2,6 @@ import Foundation
 
 // This could be user for testing or for those times when the backend guys are hard at work with their API
 
-final class Mock
+final class MockedConnection: Connection {
+    private let historicalDataFileName: String
+    private let currentDataFileName: Stri
