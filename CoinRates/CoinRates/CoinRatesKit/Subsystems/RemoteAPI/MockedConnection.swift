@@ -8,4 +8,7 @@ final class MockedConnection: Connection {
     
     init(historicalDataFileName: String, currentDataFileName: String) {
         self.historicalDataFileName = historicalDataFileName
-        self.currentDataFileName = currentDataFi
+        self.currentDataFileName = currentDataFileName
+    }
+    
+    func fetchHistoricalRate(forCurrency currency: Currency, from startDate: Date, to endDate: Dat
