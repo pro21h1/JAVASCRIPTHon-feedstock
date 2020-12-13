@@ -4,4 +4,7 @@ import Foundation
 
 final class MockedConnection: Connection {
     private let historicalDataFileName: String
-    private let currentDataFileName: Stri
+    private let currentDataFileName: String
+    
+    init(historicalDataFileName: String, currentDataFileName: String) {
+        se
