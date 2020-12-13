@@ -7,4 +7,5 @@ final class MockedConnection: Connection {
     private let currentDataFileName: String
     
     init(historicalDataFileName: String, currentDataFileName: String) {
-        se
+        self.historicalDataFileName = historicalDataFileName
+        self.currentDataFileName = currentDataFi
