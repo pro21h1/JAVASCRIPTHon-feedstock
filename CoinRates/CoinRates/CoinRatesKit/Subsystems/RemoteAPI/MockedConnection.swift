@@ -11,4 +11,6 @@ final class MockedConnection: Connection {
         self.currentDataFileName = currentDataFileName
     }
     
-    func fetchHistoricalRate(forCurrency currency: Currency, from startDate: Date, to endDate: Dat
+    func fetchHistoricalRate(forCurrency currency: Currency, from startDate: Date, to endDate: Date, completion: @escaping (Result<JSON>) -> ()) {
+        do {
+            guard let path = Bundle.main.pa
