@@ -13,4 +13,6 @@ final class MockedConnection: Connection {
     
     func fetchHistoricalRate(forCurrency currency: Currency, from startDate: Date, to endDate: Date, completion: @escaping (Result<JSON>) -> ()) {
         do {
-            guard let path = Bundle.main.pa
+            guard let path = Bundle.main.path(forResource: historicalDataFileName, ofType: "json") else {
+                throw CoinRatesError.InvalidPath
+    
