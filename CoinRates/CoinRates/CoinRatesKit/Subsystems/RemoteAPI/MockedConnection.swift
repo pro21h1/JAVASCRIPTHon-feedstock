@@ -19,3 +19,4 @@ final class MockedConnection: Connection {
             guard let data = NSData(contentsOfFile: path) else {
                 throw CoinRatesError.NoData
             }
+            guard let items = try JSONSerialization.jsonObject(with: data as Data, options: []) as? JSON els
