@@ -31,4 +31,7 @@ final class MockedConnection: Connection {
         } catch let error as NSError {
             completion(.failure(error))
         }
- 
+    }
+    
+    func fetchCurrentRate(forCurrency currency: Currency, completion: @escaping (Result<JSON>) -> ()) {
+        do 
