@@ -35,4 +35,7 @@ final class MockedConnection: Connection {
     
     func fetchCurrentRate(forCurrency currency: Currency, completion: @escaping (Result<JSON>) -> ()) {
         do {
-            guard let path = Bundle.main.path(forResource: currentDataFileName, ofType: "json") els
+            guard let path = Bundle.main.path(forResource: currentDataFileName, ofType: "json") else {
+                throw CoinRatesError.InvalidPath
+            }
+            guard let data = NSData(contentsO
