@@ -38,4 +38,7 @@ final class MockedConnection: Connection {
             guard let path = Bundle.main.path(forResource: currentDataFileName, ofType: "json") else {
                 throw CoinRatesError.InvalidPath
             }
-            guard let data = NSData(contentsO
+            guard let data = NSData(contentsOfFile: path) else {
+                throw CoinRatesError.NoData
+            }
+            guard let items = try J
