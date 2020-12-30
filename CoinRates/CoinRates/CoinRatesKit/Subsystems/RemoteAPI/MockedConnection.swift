@@ -42,4 +42,7 @@ final class MockedConnection: Connection {
                 throw CoinRatesError.NoData
             }
             guard let items = try JSONSerialization.jsonObject(with: data as Data, options: []) as? JSON else {
-                throw CoinRatesError.JSONConversi
+                throw CoinRatesError.JSONConversionFailed
+            }
+            guard let bpi = items["bpi"] as? JSON else {
+                throw CoinRatesError.JSO
