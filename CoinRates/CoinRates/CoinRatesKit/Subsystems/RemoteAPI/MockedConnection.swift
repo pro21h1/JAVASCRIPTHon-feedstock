@@ -54,4 +54,7 @@ final class MockedConnection: Connection {
         } catch let error as CoinRatesError {
             completion(.failure(error))
         } catch let error as NSError {
-            completion(.failure
+            completion(.failure(error))
+        }
+    }
+}
