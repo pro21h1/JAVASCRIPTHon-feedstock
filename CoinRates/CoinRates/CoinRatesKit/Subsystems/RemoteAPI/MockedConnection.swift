@@ -48,4 +48,7 @@ final class MockedConnection: Connection {
                 throw CoinRatesError.JSONConversionFailed
             }
             guard let eur = bpi["EUR"] as? JSON else {
-                throw CoinRatesError.JSONCo
+                throw CoinRatesError.JSONConversionFailed
+            }
+            completion(.success(eur))
+        } catch let error as CoinRatesErro
