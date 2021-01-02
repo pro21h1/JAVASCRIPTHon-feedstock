@@ -51,4 +51,7 @@ final class MockedConnection: Connection {
                 throw CoinRatesError.JSONConversionFailed
             }
             completion(.success(eur))
-        } catch let error as CoinRatesErro
+        } catch let error as CoinRatesError {
+            completion(.failure(error))
+        } catch let error as NSError {
+            completion(.failure
