@@ -8,4 +8,8 @@ class RemoteConnection: Connection {
             return completion(.failure(CoinRatesError.InvalidPath))
         }
         
-        requestTask(with: URLRequest(url: historicalRatesURL), completion: { re
+        requestTask(with: URLRequest(url: historicalRatesURL), completion: { result, response in
+            switch result {
+            case .success(let data):
+                do {
+               
