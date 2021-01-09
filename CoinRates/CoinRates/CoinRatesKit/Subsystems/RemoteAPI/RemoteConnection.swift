@@ -12,4 +12,5 @@ class RemoteConnection: Connection {
             switch result {
             case .success(let data):
                 do {
-               
+                    guard let items = try JSONSerialization.jsonObject(with: data, options: []) as? JSON else {
+                     
