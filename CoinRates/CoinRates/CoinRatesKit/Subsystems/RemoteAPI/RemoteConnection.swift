@@ -15,4 +15,7 @@ class RemoteConnection: Connection {
                     guard let items = try JSONSerialization.jsonObject(with: data, options: []) as? JSON else {
                         throw CoinRatesError.JSONConversionFailed
                     }
-                    guard let bpi = items["bpi"] as?
+                    guard let bpi = items["bpi"] as? JSON else {
+                        throw CoinRatesError.JSONConversionFailed
+                    }
+              
