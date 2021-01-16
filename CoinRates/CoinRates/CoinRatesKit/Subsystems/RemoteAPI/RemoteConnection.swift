@@ -20,4 +20,7 @@ class RemoteConnection: Connection {
                     }
                     completion(.success(bpi))
                 } catch let error as CoinRatesError {
-                    completion(.fa
+                    completion(.failure(error))
+                } catch let error as NSError {
+                    completion(.failure(error))
+       
