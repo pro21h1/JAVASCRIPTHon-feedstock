@@ -23,4 +23,8 @@ class RemoteConnection: Connection {
                     completion(.failure(error))
                 } catch let error as NSError {
                     completion(.failure(error))
-       
+                }
+            case .failure(let error):
+                completion(.failure(error))
+            }
+        
