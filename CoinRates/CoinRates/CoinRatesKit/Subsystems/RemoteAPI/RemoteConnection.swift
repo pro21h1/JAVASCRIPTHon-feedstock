@@ -27,4 +27,7 @@ class RemoteConnection: Connection {
             case .failure(let error):
                 completion(.failure(error))
             }
-        
+        }).resume()
+    }
+    
+    func fetchCurrentRate(forCurrency currency: Currency, completion: @escaping (Result<J
