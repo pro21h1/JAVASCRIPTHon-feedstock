@@ -30,4 +30,5 @@ class RemoteConnection: Connection {
         }).resume()
     }
     
-    func fetchCurrentRate(forCurrency currency: Currency, completion: @escaping (Result<J
+    func fetchCurrentRate(forCurrency currency: Currency, completion: @escaping (Result<JSON>) -> ()) {
+        guard let currentRateURL = URL(string: URLPaths.coindeskCurrentRate.rawValue + "\(currency).json
