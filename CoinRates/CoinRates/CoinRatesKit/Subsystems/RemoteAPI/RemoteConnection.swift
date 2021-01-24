@@ -35,4 +35,5 @@ class RemoteConnection: Connection {
             return completion(.failure(CoinRatesError.InvalidPath))
         }
         
-        requestTask(with: URLRe
+        requestTask(with: URLRequest(url: currentRateURL), completion: { result, response in
+            switch result {
