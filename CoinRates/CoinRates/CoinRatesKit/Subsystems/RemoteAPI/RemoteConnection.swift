@@ -37,3 +37,6 @@ class RemoteConnection: Connection {
         
         requestTask(with: URLRequest(url: currentRateURL), completion: { result, response in
             switch result {
+            case .success(let data):
+                do {
+                    guard let items = try JSONSe
