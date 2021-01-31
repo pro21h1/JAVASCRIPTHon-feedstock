@@ -43,4 +43,6 @@ class RemoteConnection: Connection {
                         throw CoinRatesError.JSONConversionFailed
                     }
                     completion(.success(items))
-                } 
+                } catch let error as CoinRatesError {
+                    completion(.failure(error))
+                } catch let error as
