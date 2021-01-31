@@ -40,4 +40,7 @@ class RemoteConnection: Connection {
             case .success(let data):
                 do {
                     guard let items = try JSONSerialization.jsonObject(with: data, options: []) as? JSON else {
-                        throw CoinRatesError.J
+                        throw CoinRatesError.JSONConversionFailed
+                    }
+                    completion(.success(items))
+                } 
