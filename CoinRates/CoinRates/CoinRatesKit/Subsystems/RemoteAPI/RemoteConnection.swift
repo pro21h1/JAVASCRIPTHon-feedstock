@@ -45,4 +45,7 @@ class RemoteConnection: Connection {
                     completion(.success(items))
                 } catch let error as CoinRatesError {
                     completion(.failure(error))
-                } catch let error as
+                } catch let error as NSError {
+                    completion(.failure(error))
+                }
+            case .failure(let err
