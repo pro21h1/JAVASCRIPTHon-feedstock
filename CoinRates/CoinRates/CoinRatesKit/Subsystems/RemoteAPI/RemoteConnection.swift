@@ -48,4 +48,10 @@ class RemoteConnection: Connection {
                 } catch let error as NSError {
                     completion(.failure(error))
                 }
-            case .failure(let err
+            case .failure(let error):
+                completion(.failure(error))
+            }
+        }).resume()
+    }
+    
+    // MARK: Pr
