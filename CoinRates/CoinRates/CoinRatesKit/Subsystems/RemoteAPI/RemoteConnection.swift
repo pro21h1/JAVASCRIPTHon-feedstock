@@ -54,4 +54,5 @@ class RemoteConnection: Connection {
         }).resume()
     }
     
-    // MARK: Pr
+    // MARK: Private & Helpers
+    private func requestTask(with urlRequest: URLRequest, completion: @escaping (Result<Data>, HTTPU
