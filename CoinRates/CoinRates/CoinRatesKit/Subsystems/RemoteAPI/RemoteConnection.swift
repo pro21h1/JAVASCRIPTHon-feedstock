@@ -56,4 +56,6 @@ class RemoteConnection: Connection {
     
     // MARK: Private & Helpers
     private func requestTask(with urlRequest: URLRequest, completion: @escaping (Result<Data>, HTTPURLResponse?) -> ()) -> URLSessionTask {
-        return URLSession.shared.dataTask(with: urlRequest) { data, response, e
+        return URLSession.shared.dataTask(with: urlRequest) { data, response, error in
+            guard error == nil else {
+                return completion(.failure(error!), 
