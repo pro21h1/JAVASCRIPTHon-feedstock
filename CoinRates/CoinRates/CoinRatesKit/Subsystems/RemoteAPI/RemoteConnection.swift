@@ -61,4 +61,4 @@ class RemoteConnection: Connection {
                 return completion(.failure(error!), response as? HTTPURLResponse)
             }
             guard let httpResponse = response as? HTTPURLResponse else {
-         
+                return completion(.failure(CoinRatesError.NoHTTPResponse), response as? HTTPURLRespo
