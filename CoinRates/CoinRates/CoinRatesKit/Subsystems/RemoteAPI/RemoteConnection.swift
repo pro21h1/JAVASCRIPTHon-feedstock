@@ -64,4 +64,6 @@ class RemoteConnection: Connection {
                 return completion(.failure(CoinRatesError.NoHTTPResponse), response as? HTTPURLResponse)
             }
             guard let returnedData = data else {
-                return completion(.fai
+                return completion(.failure(CoinRatesError.NoData), httpResponse)
+            }
+            guard(200...299).contains(httpResponse.st
