@@ -73,4 +73,4 @@ class RemoteConnection: Connection {
                 } else {
                     responseBody = nil
                 }
- 
+                return completion(.failure(CoinRatesError.HTTPError(statusCode: httpResponse.statusCode, erro
