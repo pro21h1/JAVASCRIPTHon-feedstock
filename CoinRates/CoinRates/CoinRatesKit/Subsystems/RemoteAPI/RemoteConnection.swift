@@ -69,4 +69,8 @@ class RemoteConnection: Connection {
             guard(200...299).contains(httpResponse.statusCode) else {
                 let responseBody: String?
                 if let data = data {
-                    
+                    responseBody = String(data: data, encoding: .utf8)
+                } else {
+                    responseBody = nil
+                }
+ 
