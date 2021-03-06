@@ -78,4 +78,6 @@ class RemoteConnection: Connection {
             completion(.success(returnedData), httpResponse)
         }
     }
-  
+    
+    func bitcoinRatesURLWithComponents(currency: Currency, from startDate: Date, to endDate: Date) -> URL? {
+      
