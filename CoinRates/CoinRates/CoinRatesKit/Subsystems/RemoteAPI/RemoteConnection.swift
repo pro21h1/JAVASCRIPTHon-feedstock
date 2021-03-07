@@ -80,4 +80,5 @@ class RemoteConnection: Connection {
     }
     
     func bitcoinRatesURLWithComponents(currency: Currency, from startDate: Date, to endDate: Date) -> URL? {
-      
+        var urlComponents = URLComponents(string: URLPaths.coindeskHistoricalRate.rawValue)
+        let currencyItem = URLQueryItem(name
