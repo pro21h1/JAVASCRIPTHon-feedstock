@@ -84,4 +84,9 @@ class RemoteConnection: Connection {
         let currencyItem = URLQueryItem(name: "currency", value: currency.rawValue)
         let start = URLQueryItem(name: "start", value: startDate.formattedString())
         let end = URLQueryItem(name: "end", value: endDate.formattedString())
-        urlComponents
+        urlComponents?.queryItems = [currencyItem, start, end]
+        
+        let url = urlComponents?.url
+        return url
+    }
+}
