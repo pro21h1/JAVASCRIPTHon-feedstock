@@ -1,0 +1,23 @@
+
+{
+   "time":{
+      "updated":"Jul 30, 2017 20:33:00 UTC",
+      "updatedISO":"2017-07-30T20:33:00+00:00",
+      "updateduk":"Jul 30, 2017 at 21:33 BST"
+   },
+   "disclaimer":"This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org",
+   "bpi":{
+      "USD":{
+         "code":"USD",
+         "rate":"2,724.5500",
+         "description":"United States Dollar",
+         "rate_float":2724.55
+      },
+      "EUR":{
+         "code":"EUR",
+         "rate":"2,319.2841",
+         "description":"Euro",
+         "rate_float":2319.2841
+      }
+   }
+}
