@@ -6,4 +6,5 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile sec
+/* Begin PBXBuildFile section */
+		0C6C06BC1F2CADB800981C47 /* CoinRatesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C
