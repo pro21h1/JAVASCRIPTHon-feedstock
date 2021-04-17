@@ -9,4 +9,4 @@
 /* Begin PBXBuildFile section */
 		0C6C06BC1F2CADB800981C47 /* CoinRatesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06BB1F2CADB800981C47 /* CoinRatesTableViewController.swift */; };
 		0C6C06BE1F2CADCC00981C47 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06BD1F2CADCC00981C47 /* AppDelegate.swift */; };
-		0C6C
+		0C6C06C61F2CB33000981C47 /* Connection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06C51F2CB33000981C47 /* Connection.sw
