@@ -11,4 +11,4 @@
 		0C6C06BE1F2CADCC00981C47 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06BD1F2CADCC00981C47 /* AppDelegate.swift */; };
 		0C6C06C61F2CB33000981C47 /* Connection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06C51F2CB33000981C47 /* Connection.swift */; };
 		0C6C06C81F2CBA8F00981C47 /* RemoteConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06C71F2CBA8F00981C47 /* RemoteConnection.swift */; };
-		0C6C06CA1F2CBC0600981C47 /* MockedConnection.swift i
+		0C6C06CA1F2CBC0600981C47 /* MockedConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06C91F2CBC0600981C47 /* MockedConnection.swift 
