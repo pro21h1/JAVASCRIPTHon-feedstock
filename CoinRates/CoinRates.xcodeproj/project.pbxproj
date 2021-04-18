@@ -13,4 +13,5 @@
 		0C6C06C81F2CBA8F00981C47 /* RemoteConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06C71F2CBA8F00981C47 /* RemoteConnection.swift */; };
 		0C6C06CA1F2CBC0600981C47 /* MockedConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06C91F2CBC0600981C47 /* MockedConnection.swift */; };
 		0C6C06CC1F2CBD3600981C47 /* ExchangeRate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06CB1F2CBD3600981C47 /* ExchangeRate.swift */; };
-		0C6C06CE1F2CBEE000981C47 /* Handlers.swift in Sources */ 
+		0C6C06CE1F2CBEE000981C47 /* Handlers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06CD1F2CBEE000981C47 /* Handlers.swift */; };
+		0C6C06D01F2CBF6A00981C47 /* BitcoinRateContro
