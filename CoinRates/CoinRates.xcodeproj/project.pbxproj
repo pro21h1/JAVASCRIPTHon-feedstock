@@ -17,4 +17,5 @@
 		0C6C06D01F2CBF6A00981C47 /* BitcoinRateController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06CF1F2CBF6A00981C47 /* BitcoinRateController.swift */; };
 		0C6C06D21F2CCA8400981C47 /* MockedBitcoinRateController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06D11F2CCA8400981C47 /* MockedBitcoinRateController.swift */; };
 		0C6C06D51F2D1EB400981C47 /* CellsRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06D41F2D1EB400981C47 /* CellsRepresentable.swift */; };
-		0C6C06D81F2D22E000981C47 /* CoinRateTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fi
+		0C6C06D81F2D22E000981C47 /* CoinRateTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06D71F2D22E000981C47 /* CoinRateTableViewCell.swift */; };
+		0C6C06DA1F2DEBBB00981C4
