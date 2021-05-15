@@ -21,4 +21,5 @@
 		0C6C06DA1F2DEBBB00981C47 /* CoinRateCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06D91F2DEBBB00981C47 /* CoinRateCellViewModel.swift */; };
 		0C6C06DC1F2E035800981C47 /* CoinRatesURLPathTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06DB1F2E035700981C47 /* CoinRatesURLPathTests.swift */; };
 		0C6C06DF1F2E0B6900981C47 /* Date+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06DE1F2E0B6900981C47 /* Date+Additions.swift */; };
-		0C6C06E31F2E243A00981C47 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 0C6C06E21F2E243A00981C47 /* data.
+		0C6C06E31F2E243A00981C47 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 0C6C06E21F2E243A00981C47 /* data.json */; };
+		0C6C06E61F2E25BE00981C47 /* invalidData.json in Resources */ = {isa = PBXBuildFile; fileRef = 0C6C06E41F2E25BE009
