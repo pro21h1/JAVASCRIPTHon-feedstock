@@ -27,4 +27,5 @@
 		0C6C06EE1F2E3A0500981C47 /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C6C06EC1F2E3A0500981C47 /* Interface.storyboard */; };
 		0C6C06F01F2E3A0500981C47 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C6C06EF1F2E3A0500981C47 /* Assets.xcassets */; };
 		0C6C06F71F2E3A0600981C47 /* CoinRatesWatchApp Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 0C6C06F61F2E3A0600981C47 /* CoinRatesWatchApp Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		0C6C07001F2E3A0600981C47 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06FF1F2E3A0600981C47 /* 
+		0C6C07001F2E3A0600981C47 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06FF1F2E3A0600981C47 /* ExtensionDelegate.swift */; };
+		0C6C07041F2E3A0600981C47 /* Assets.xcassets in Resources */ = {i
