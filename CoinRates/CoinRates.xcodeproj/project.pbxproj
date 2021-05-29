@@ -30,4 +30,5 @@
 		0C6C07001F2E3A0600981C47 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06FF1F2E3A0600981C47 /* ExtensionDelegate.swift */; };
 		0C6C07041F2E3A0600981C47 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C6C07031F2E3A0600981C47 /* Assets.xcassets */; };
 		0C6C07081F2E3A0600981C47 /* CoinRatesWatchApp.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 0C6C06EA1F2E3A0500981C47 /* CoinRatesWatchApp.app */; };
-		0C6C07171F2E40C600981C47 /* CoinRatesRowController.swift in Sources */ = {isa = P
+		0C6C07171F2E40C600981C47 /* CoinRatesRowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C07161F2E404400981C47 /* CoinRatesRowController.swift */; };
+		0C6C07181F2E4246
