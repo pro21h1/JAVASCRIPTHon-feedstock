@@ -31,4 +31,5 @@
 		0C6C07041F2E3A0600981C47 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C6C07031F2E3A0600981C47 /* Assets.xcassets */; };
 		0C6C07081F2E3A0600981C47 /* CoinRatesWatchApp.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 0C6C06EA1F2E3A0500981C47 /* CoinRatesWatchApp.app */; };
 		0C6C07171F2E40C600981C47 /* CoinRatesRowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C07161F2E404400981C47 /* CoinRatesRowController.swift */; };
-		0C6C07181F2E424600981C47 /* ExchangeRate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06CB1F2CBD3600981C47 /* ExchangeR
+		0C6C07181F2E424600981C47 /* ExchangeRate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06CB1F2CBD3600981C47 /* ExchangeRate.swift */; };
+		0C6C07191F2E431C00981C47 /* Date+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C0
