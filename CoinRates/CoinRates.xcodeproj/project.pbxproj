@@ -37,4 +37,4 @@
 		0C6C071B1F2E451B00981C47 /* BitcoinRateController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06CF1F2CBF6A00981C47 /* BitcoinRateController.swift */; };
 		0C6C071C1F2E455600981C47 /* Connection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06C51F2CB33000981C47 /* Connection.swift */; };
 		0C6C071D1F2E455B00981C47 /* RemoteConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06C71F2CBA8F00981C47 /* RemoteConnection.swift */; };
-		0C6C071E1F2E49F100981C47 /* CoinRatesInter
+		0C6C071E1F2E49F100981C47 /* CoinRatesInterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C07111F2E3ED600981C47 /* CoinRatesInterfaceCon
