@@ -41,4 +41,4 @@
 		0C6C07251F2E5B1500981C47 /* ExchangeRateDataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C07241F2E5B1500981C47 /* ExchangeRateDataStore.swift */; };
 		0C6C07281F2E5BC100981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C07271F2E5BC100981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift */; };
 		0C6C07291F2E60E000981C47 /* ExchangeRateDataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C07241F2E5B1500981C47 /* ExchangeRateDataStore.swift */; };
-		0C6C072A1F2E
+		0C6C072A1F2E613000981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C07271F2E5BC100
