@@ -39,4 +39,5 @@
 		0C6C071D1F2E455B00981C47 /* RemoteConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C06C71F2CBA8F00981C47 /* RemoteConnection.swift */; };
 		0C6C071E1F2E49F100981C47 /* CoinRatesInterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C07111F2E3ED600981C47 /* CoinRatesInterfaceController.swift */; };
 		0C6C07251F2E5B1500981C47 /* ExchangeRateDataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C07241F2E5B1500981C47 /* ExchangeRateDataStore.swift */; };
-		0C6C07281F2E5BC100981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C07271F2E5BC100981C47 /* ExchangeRa
+		0C6C07281F2E5BC100981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C07271F2E5BC100981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift */; };
+		0C6C07291F2E60E000981C47 /* ExchangeRateDataStore.swift in Sources */ =
