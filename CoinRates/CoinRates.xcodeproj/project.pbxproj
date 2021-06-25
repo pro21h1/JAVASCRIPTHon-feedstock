@@ -43,4 +43,5 @@
 		0C6C07291F2E60E000981C47 /* ExchangeRateDataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C07241F2E5B1500981C47 /* ExchangeRateDataStore.swift */; };
 		0C6C072A1F2E613000981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C07271F2E5BC100981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift */; };
 		0C6C072C1F2E7BD400981C47 /* currentPriceData.json in Resources */ = {isa = PBXBuildFile; fileRef = 0C6C072B1F2E7BD400981C47 /* currentPriceData.json */; };
-		0CB336E21F2BDE4000D1D6
+		0CB336E21F2BDE4000D1D669 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CB336E11F2BDE4000D1D669 /* Assets.xcassets */; };
+		0CB3
