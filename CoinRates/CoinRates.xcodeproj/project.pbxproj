@@ -44,4 +44,4 @@
 		0C6C072A1F2E613000981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6C07271F2E5BC100981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift */; };
 		0C6C072C1F2E7BD400981C47 /* currentPriceData.json in Resources */ = {isa = PBXBuildFile; fileRef = 0C6C072B1F2E7BD400981C47 /* currentPriceData.json */; };
 		0CB336E21F2BDE4000D1D669 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CB336E11F2BDE4000D1D669 /* Assets.xcassets */; };
-		0CB3
+		0CB336E51F2BDE4000D1D669 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0CB336E31F2B
