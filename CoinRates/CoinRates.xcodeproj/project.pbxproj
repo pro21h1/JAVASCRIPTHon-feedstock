@@ -45,4 +45,5 @@
 		0C6C072C1F2E7BD400981C47 /* currentPriceData.json in Resources */ = {isa = PBXBuildFile; fileRef = 0C6C072B1F2E7BD400981C47 /* currentPriceData.json */; };
 		0CB336E21F2BDE4000D1D669 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CB336E11F2BDE4000D1D669 /* Assets.xcassets */; };
 		0CB336E51F2BDE4000D1D669 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0CB336E31F2BDE4000D1D669 /* LaunchScreen.storyboard */; };
-		0CB336F01F2BDE4000D1D669 /* CoinRatesTests.swift in Sources */ = {isa = PBXB
+		0CB336F01F2BDE4000D1D669 /* CoinRatesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CB336EF1F2BDE4000D1D669 /* CoinRatesTests.swift */; };
+/* End PBXBuildFile section */
