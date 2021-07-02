@@ -47,3 +47,7 @@
 		0CB336E51F2BDE4000D1D669 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0CB336E31F2BDE4000D1D669 /* LaunchScreen.storyboard */; };
 		0CB336F01F2BDE4000D1D669 /* CoinRatesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CB336EF1F2BDE4000D1D669 /* CoinRatesTests.swift */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0C6C06F81F2E3A0600981C47 /* PBXContainerItemProxy */ = {
+			isa = PBXContainer
