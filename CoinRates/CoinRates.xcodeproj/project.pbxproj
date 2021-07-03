@@ -56,4 +56,7 @@
 			remoteGlobalIDString = 0C6C06F51F2E3A0600981C47;
 			remoteInfo = "CoinRatesWatchApp Extension";
 		};
-		0C6C07061F2E3A0600981C47 /* PBXContainerItemProx
+		0C6C07061F2E3A0600981C47 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0CB336CF1F2BDE4000D1D669 /* Project object */;
+			pr
