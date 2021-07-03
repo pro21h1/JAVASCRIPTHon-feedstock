@@ -59,4 +59,8 @@
 		0C6C07061F2E3A0600981C47 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 0CB336CF1F2BDE4000D1D669 /* Project object */;
-			pr
+			proxyType = 1;
+			remoteGlobalIDString = 0C6C06E91F2E3A0500981C47;
+			remoteInfo = CoinRatesWatchApp;
+		};
+		0CB336EC1
