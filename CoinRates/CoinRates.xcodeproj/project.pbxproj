@@ -50,4 +50,7 @@
 
 /* Begin PBXContainerItemProxy section */
 		0C6C06F81F2E3A0600981C47 /* PBXContainerItemProxy */ = {
-			isa = PBXContainer
+			isa = PBXContainerItemProxy;
+			containerPortal = 0CB336CF1F2BDE4000D1D669 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0C6C06F51
