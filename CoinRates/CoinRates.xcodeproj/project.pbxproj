@@ -70,4 +70,7 @@
 			remoteGlobalIDString = 0CB336D61F2BDE4000D1D669;
 			remoteInfo = CoinRates;
 		};
-/* En
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		0C6C070C1F2E3A0600981C47 /* Embed App
