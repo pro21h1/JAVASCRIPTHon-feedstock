@@ -73,4 +73,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		0C6C070C1F2E3A0600981C47 /* Embed App
+		0C6C070C1F2E3A0600981C47 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+		
