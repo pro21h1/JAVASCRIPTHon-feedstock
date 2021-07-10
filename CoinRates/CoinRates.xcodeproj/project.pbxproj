@@ -81,3 +81,7 @@
 			files = (
 				0C6C06F71F2E3A0600981C47 /* CoinRatesWatchApp Extension.appex in Embed App Extensions */,
 			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0C6C07101F2E3A0600981C47 /
