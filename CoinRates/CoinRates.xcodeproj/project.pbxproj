@@ -87,4 +87,7 @@
 		0C6C07101F2E3A0600981C47 /* Embed Watch Content */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
-			dstPath = "$(CONTENTS_
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				0C6C07081F2E3A0600981C47 /* CoinRat
