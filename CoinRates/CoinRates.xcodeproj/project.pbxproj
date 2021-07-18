@@ -90,4 +90,9 @@
 			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
 			dstSubfolderSpec = 16;
 			files = (
-				0C6C07081F2E3A0600981C47 /* CoinRat
+				0C6C07081F2E3A0600981C47 /* CoinRatesWatchApp.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* 
