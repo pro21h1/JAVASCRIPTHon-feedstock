@@ -98,4 +98,4 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0C6C06BB1F2CADB800981C47 /* CoinRatesTabl
+		0C6C06BB1F2CADB800981C47 /* CoinRatesTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Co
