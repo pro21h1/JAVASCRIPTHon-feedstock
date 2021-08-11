@@ -100,4 +100,4 @@
 /* Begin PBXFileReference section */
 		0C6C06BB1F2CADB800981C47 /* CoinRatesTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CoinRatesTableViewController.swift; path = App/ViewControllers/CoinRatesTableViewController.swift; sourceTree = "<group>"; };
 		0C6C06BD1F2CADCC00981C47 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = App/AppDelegate.swift; sourceTree = "<group>"; };
-		0C6C06C51F2CB33000981C47 /* Connection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Conne
+		0C6C06C51F2CB33000981C47 /* Connection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Connection.swift; path = CoinRatesKit/Subsystems/RemoteAPI/Connection.swift; sourceTree = "<group>"; };
