@@ -102,4 +102,4 @@
 		0C6C06BD1F2CADCC00981C47 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = App/AppDelegate.swift; sourceTree = "<group>"; };
 		0C6C06C51F2CB33000981C47 /* Connection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Connection.swift; path = CoinRatesKit/Subsystems/RemoteAPI/Connection.swift; sourceTree = "<group>"; };
 		0C6C06C71F2CBA8F00981C47 /* RemoteConnection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RemoteConnection.swift; path = CoinRatesKit/Subsystems/RemoteAPI/RemoteConnection.swift; sourceTree = "<group>"; };
-		0C6C06C91F2CBC0600981C47 /* MockedConnection.swift */ = {isa = PBXFileRefer
+		0C6C06C91F2CBC0600981C47 /* MockedConnection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MockedConnection.swift; path = CoinRate
