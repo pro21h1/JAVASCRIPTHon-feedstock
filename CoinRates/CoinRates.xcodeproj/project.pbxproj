@@ -105,4 +105,4 @@
 		0C6C06C91F2CBC0600981C47 /* MockedConnection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MockedConnection.swift; path = CoinRatesKit/Subsystems/RemoteAPI/MockedConnection.swift; sourceTree = "<group>"; };
 		0C6C06CB1F2CBD3600981C47 /* ExchangeRate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ExchangeRate.swift; path = CoinRatesKit/Subsystems/Models/ExchangeRate.swift; sourceTree = "<group>"; };
 		0C6C06CD1F2CBEE000981C47 /* Handlers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Handlers.swift; path = CoinRatesKit/Subsystems/Controllers/Handlers.swift; sourceTree = "<group>"; };
-		0C6C06C
+		0C6C06CF1F2CBF6A00981C47 /* BitcoinRateController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFil
