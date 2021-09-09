@@ -107,4 +107,5 @@
 		0C6C06CD1F2CBEE000981C47 /* Handlers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Handlers.swift; path = CoinRatesKit/Subsystems/Controllers/Handlers.swift; sourceTree = "<group>"; };
 		0C6C06CF1F2CBF6A00981C47 /* BitcoinRateController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BitcoinRateController.swift; path = CoinRatesKit/Subsystems/Controllers/BitcoinRateController.swift; sourceTree = "<group>"; };
 		0C6C06D11F2CCA8400981C47 /* MockedBitcoinRateController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MockedBitcoinRateController.swift; path = CoinRatesKit/Subsystems/Controllers/MockedBitcoinRateController.swift; sourceTree = "<group>"; };
-		0C6C06D41F2D1EB400981C47 /* CellsRepresentable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sou
+		0C6C06D41F2D1EB400981C47 /* CellsRepresentable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CellsRepresentable.swift; path = App/Views/CellsRepresentable.swift; sourceTree = "<group>"; };
+		0C6C
