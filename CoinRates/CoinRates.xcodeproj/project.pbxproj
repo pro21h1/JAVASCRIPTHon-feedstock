@@ -113,4 +113,4 @@
 		0C6C06DB1F2E035700981C47 /* CoinRatesURLPathTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoinRatesURLPathTests.swift; sourceTree = "<group>"; };
 		0C6C06DE1F2E0B6900981C47 /* Date+Additions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Date+Additions.swift"; path = "CoinRatesKit/FoundationExtensions/Date+Additions.swift"; sourceTree = "<group>"; };
 		0C6C06E21F2E243A00981C47 /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
-		0C6C06
+		0C6C06E41F2E25BE00981C47 /* invalidData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.jso
