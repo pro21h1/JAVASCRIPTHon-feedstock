@@ -117,4 +117,5 @@
 		0C6C06E51F2E25BE00981C47 /* validData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = validData.json; sourceTree = "<group>"; };
 		0C6C06EA1F2E3A0500981C47 /* CoinRatesWatchApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoinRatesWatchApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C6C06ED1F2E3A0500981C47 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
-		0C6C06EF1F2E3A0500981C47 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.
+		0C6C06EF1F2E3A0500981C47 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0C6C06F11F2E3A0500981C47 /* Info.plist */ = {isa = P
