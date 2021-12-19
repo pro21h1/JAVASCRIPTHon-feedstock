@@ -123,4 +123,5 @@
 		0C6C06FC1F2E3A0600981C47 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
 		0C6C06FF1F2E3A0600981C47 /* ExtensionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionDelegate.swift; sourceTree = "<group>"; };
 		0C6C07031F2E3A0600981C47 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		0C6C07051F2E3A0600981C47 /* Info.plist */ = {isa = PBX
+		0C6C07051F2E3A0600981C47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C6C07111F2E3ED60098
