@@ -124,4 +124,5 @@
 		0C6C06FF1F2E3A0600981C47 /* ExtensionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionDelegate.swift; sourceTree = "<group>"; };
 		0C6C07031F2E3A0600981C47 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0C6C07051F2E3A0600981C47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0C6C07111F2E3ED600981C47 /* CoinRatesInterfaceController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CoinRatesInterfaceController.swift; path = ../CoinRatesWatchApp/CoinRatesInterfaceController.swi
+		0C6C07111F2E3ED600981C47 /* CoinRatesInterfaceController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CoinRatesInterfaceController.swift; path = ../CoinRatesWatchApp/CoinRatesInterfaceController.swift; sourceTree = "<group>"; };
+		0C6C07161F2E404400981C47 /* CoinRatesRowController.swift */ = {isa = PBXFile
