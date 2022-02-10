@@ -129,4 +129,5 @@
 		0C6C07241F2E5B1500981C47 /* ExchangeRateDataStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ExchangeRateDataStore.swift; path = CoinRatesKit/Subsystems/Persistence/ExchangeRateDataStore.swift; sourceTree = "<group>"; };
 		0C6C07271F2E5BC100981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ExchangeRateDataStoreDiskUserPrefs.swift; path = CoinRatesKit/Subsystems/Persistence/ExchangeRateDataStoreDiskUserPrefs.swift; sourceTree = "<group>"; };
 		0C6C072B1F2E7BD400981C47 /* currentPriceData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = currentPriceData.json; sourceTree = "<group>"; };
-		0CB336D71F2BDE4000D1D669 /* CoinRates.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; 
+		0CB336D71F2BDE4000D1D669 /* CoinRates.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoinRates.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0CB336E11F2BDE4000D1D669 /* Assets.xcasset
