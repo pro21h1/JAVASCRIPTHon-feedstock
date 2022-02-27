@@ -135,4 +135,7 @@
 		0CB336E61F2BDE4000D1D669 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0CB336EB1F2BDE4000D1D669 /* CoinRatesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoinRatesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CB336EF1F2BDE4000D1D669 /* CoinRatesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinRatesTests.swift; sourceTree = "<group>"; };
-		0CB336F11F2BDE4000D1D669 /* Info.plist */ = {isa = PBXFileReference; lastKnow
+		0CB336F11F2BDE4000D1D669 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/
