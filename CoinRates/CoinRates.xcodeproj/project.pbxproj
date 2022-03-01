@@ -138,4 +138,6 @@
 		0CB336F11F2BDE4000D1D669 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
-/
+/* Begin PBXFrameworksBuildPhase section */
+		0C6C06F31F2E3A0600981C47 /* Frameworks */ = {
+			isa = PBXFramework
