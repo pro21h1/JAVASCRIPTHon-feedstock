@@ -140,4 +140,9 @@
 
 /* Begin PBXFrameworksBuildPhase section */
 		0C6C06F31F2E3A0600981C47 /* Frameworks */ = {
-			isa = PBXFramework
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
