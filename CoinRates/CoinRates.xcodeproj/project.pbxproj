@@ -148,4 +148,9 @@
 		};
 		0CB336D41F2BDE4000D1D669 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 214748364
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0CB336E81F2BDE4000D1D669 /* Frameworks */ 
