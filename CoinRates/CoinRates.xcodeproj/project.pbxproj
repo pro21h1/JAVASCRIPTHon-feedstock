@@ -160,4 +160,8 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-/* End
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0C6C06B91F2CAD5B00981C47 /* App */ = {
+			isa = PBXGro
