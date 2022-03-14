@@ -164,4 +164,7 @@
 
 /* Begin PBXGroup section */
 		0C6C06B91F2CAD5B00981C47 /* App */ = {
-			isa = PBXGro
+			isa = PBXGroup;
+			children = (
+				0C6C06BD1F2CADCC00981C47 /* AppDelegate.swift */,
+				0C6C06BA1F2CAD6B00981C47 /* ViewContr
