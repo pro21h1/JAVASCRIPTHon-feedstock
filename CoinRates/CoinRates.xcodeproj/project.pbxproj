@@ -167,4 +167,9 @@
 			isa = PBXGroup;
 			children = (
 				0C6C06BD1F2CADCC00981C47 /* AppDelegate.swift */,
-				0C6C06BA1F2CAD6B00981C47 /* ViewContr
+				0C6C06BA1F2CAD6B00981C47 /* ViewControllers */,
+				0C6C06D31F2D1E8700981C47 /* Views */,
+				0C6C06BF1F2CB23300981C47 /* Resources */,
+			);
+			name = App;
+			sourceTre
