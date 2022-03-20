@@ -176,4 +176,8 @@
 		};
 		0C6C06BA1F2CAD6B00981C47 /* ViewControllers */ = {
 			isa = PBXGroup;
-			children 
+			children = (
+				0C6C06BB1F2CADB800981C47 /* CoinRatesTableViewController.swift */,
+			);
+			name = ViewControllers;
+			
