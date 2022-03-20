@@ -180,4 +180,9 @@
 				0C6C06BB1F2CADB800981C47 /* CoinRatesTableViewController.swift */,
 			);
 			name = ViewControllers;
-			
+			sourceTree = "<group>";
+		};
+		0C6C06BF1F2CB23300981C47 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				0CB336E11F2BDE400
