@@ -185,4 +185,6 @@
 		0C6C06BF1F2CB23300981C47 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				0CB336E11F2BDE400
+				0CB336E11F2BDE4000D1D669 /* Assets.xcassets */,
+				0CB336E31F2BDE4000D1D669 /* LaunchScreen.storyboard */,
+				0CB336E61F2BDE4000D1D669 /* In
