@@ -189,4 +189,9 @@
 				0CB336E31F2BDE4000D1D669 /* LaunchScreen.storyboard */,
 				0CB336E61F2BDE4000D1D669 /* Info.plist */,
 				0C6C06E21F2E243A00981C47 /* data.json */,
-				0C6C072B1F2E7BD400981C47 /* currentPrice
+				0C6C072B1F2E7BD400981C47 /* currentPriceData.json */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		0C6C06C01F2CB26000981C47 /* C
