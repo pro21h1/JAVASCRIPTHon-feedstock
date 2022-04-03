@@ -194,4 +194,8 @@
 			name = Resources;
 			sourceTree = "<group>";
 		};
-		0C6C06C01F2CB26000981C47 /* C
+		0C6C06C01F2CB26000981C47 /* CoinRatesKit */ = {
+			isa = PBXGroup;
+			children = (
+				0C6C06DD1F2E0B4C00981C47 /* FoundationExtensions */,
+				0C6C06C11F2
