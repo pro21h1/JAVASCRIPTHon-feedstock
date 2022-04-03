@@ -198,4 +198,9 @@
 			isa = PBXGroup;
 			children = (
 				0C6C06DD1F2E0B4C00981C47 /* FoundationExtensions */,
-				0C6C06C11F2
+				0C6C06C11F2CB29C00981C47 /* Subsystems */,
+			);
+			name = CoinRatesKit;
+			sourceTree = "<group>";
+		};
+		0C6C06C11F2CB29C00981C47 /* 
