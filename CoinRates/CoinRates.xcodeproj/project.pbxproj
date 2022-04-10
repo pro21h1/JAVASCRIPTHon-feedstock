@@ -203,4 +203,7 @@
 			name = CoinRatesKit;
 			sourceTree = "<group>";
 		};
-		0C6C06C11F2CB29C00981C47 /* 
+		0C6C06C11F2CB29C00981C47 /* Subsystems */ = {
+			isa = PBXGroup;
+			children = (
+				0C6C07261F2E5B6A00981C47 /* Persistence */
