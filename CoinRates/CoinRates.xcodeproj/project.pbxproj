@@ -219,4 +219,9 @@
 			children = (
 				0C6C06C51F2CB33000981C47 /* Connection.swift */,
 				0C6C06C71F2CBA8F00981C47 /* RemoteConnection.swift */,
-				0C6C06C91F2CBC0600981C47 /* MockedConnectio
+				0C6C06C91F2CBC0600981C47 /* MockedConnection.swift */,
+			);
+			name = "Remote API";
+			sourceTree = "<group>";
+		};
+		0C6C06C31F2CB2BC00981C47 /* Models */ =
