@@ -224,4 +224,10 @@
 			name = "Remote API";
 			sourceTree = "<group>";
 		};
-		0C6C06C31F2CB2BC00981C47 /* Models */ =
+		0C6C06C31F2CB2BC00981C47 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				0C6C06CB1F2CBD3600981C47 /* ExchangeRate.swift */,
+			);
+			name = Models;
+			sourceTre
