@@ -230,4 +230,9 @@
 				0C6C06CB1F2CBD3600981C47 /* ExchangeRate.swift */,
 			);
 			name = Models;
-			sourceTre
+			sourceTree = "<group>";
+		};
+		0C6C06C41F2CB2C600981C47 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				0C6C06CD1F2CBEE00098
