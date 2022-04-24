@@ -246,4 +246,9 @@
 			isa = PBXGroup;
 			children = (
 				0C6C06D61F2D208B00981C47 /* CoinRateCell */,
-				0C6C06D41
+				0C6C06D41F2D1EB400981C47 /* CellsRepresentable.swift */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		0C6C06D61F2D208B00981C47 
