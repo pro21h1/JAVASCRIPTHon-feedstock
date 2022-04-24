@@ -237,4 +237,9 @@
 			children = (
 				0C6C06CD1F2CBEE000981C47 /* Handlers.swift */,
 				0C6C06CF1F2CBF6A00981C47 /* BitcoinRateController.swift */,
-				0C6C06D11F2CCA8400981C47 /* Mock
+				0C6C06D11F2CCA8400981C47 /* MockedBitcoinRateController.swift */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		0C6C06D31F2D1E870
