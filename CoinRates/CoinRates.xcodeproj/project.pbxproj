@@ -251,4 +251,8 @@
 			name = Views;
 			sourceTree = "<group>";
 		};
-		0C6C06D61F2D208B00981C47 
+		0C6C06D61F2D208B00981C47 /* CoinRateCell */ = {
+			isa = PBXGroup;
+			children = (
+				0C6C06D71F2D22E000981C47 /* CoinRateTableViewCell.swift */,
+				0C
