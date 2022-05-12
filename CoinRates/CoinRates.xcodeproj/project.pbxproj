@@ -260,4 +260,7 @@
 			name = CoinRateCell;
 			sourceTree = "<group>";
 		};
-		0
+		0C6C06DD1F2E0B4C00981C47 /* FoundationExtensions */ = {
+			isa = PBXGroup;
+			children = (
+				0C6C06DE1F
