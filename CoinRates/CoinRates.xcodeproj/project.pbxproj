@@ -268,4 +268,8 @@
 			name = FoundationExtensions;
 			sourceTree = "<group>";
 		};
-		0C6C06EB1F2E3A0500981C47 /* Co
+		0C6C06EB1F2E3A0500981C47 /* CoinRatesWatchApp */ = {
+			isa = PBXGroup;
+			children = (
+				0C6C06EC1F2E3A0500981C47 /* Interface.storyboard */,
+				0
