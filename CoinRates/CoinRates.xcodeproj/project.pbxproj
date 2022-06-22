@@ -272,4 +272,6 @@
 			isa = PBXGroup;
 			children = (
 				0C6C06EC1F2E3A0500981C47 /* Interface.storyboard */,
-				0
+				0C6C06EF1F2E3A0500981C47 /* Assets.xcassets */,
+				0C6C06F11F2E3A0500981C47 /* Info.plist */,
+			);
