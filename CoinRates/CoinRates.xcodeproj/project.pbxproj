@@ -278,4 +278,7 @@
 			path = CoinRatesWatchApp;
 			sourceTree = "<group>";
 		};
-		0C6C06FA1F2E3A0600981C47 /* CoinRatesWatchApp Exten
+		0C6C06FA1F2E3A0600981C47 /* CoinRatesWatchApp Extension */ = {
+			isa = PBXGroup;
+			children = (
+				0C6C07111F2E3ED600981C47 /* CoinRatesInterfaceContr
