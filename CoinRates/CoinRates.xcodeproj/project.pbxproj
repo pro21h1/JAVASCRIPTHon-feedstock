@@ -285,4 +285,8 @@
 				0C6C07161F2E404400981C47 /* CoinRatesRowController.swift */,
 				0C6C06FF1F2E3A0600981C47 /* ExtensionDelegate.swift */,
 				0C6C07031F2E3A0600981C47 /* Assets.xcassets */,
-				0C6C07051F2E3A0600981C47 /* Info.plist *
+				0C6C07051F2E3A0600981C47 /* Info.plist */,
+				0C6C06FB1F2E3A0600981C47 /* Supporting Files */,
+			);
+			path = "CoinRatesWatchApp Extension";
+			sourceTr
