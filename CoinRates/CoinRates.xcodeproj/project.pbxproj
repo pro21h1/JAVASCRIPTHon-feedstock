@@ -294,4 +294,8 @@
 		0C6C06FB1F2E3A0600981C47 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				0C6C06FC1F2E3A060098
+				0C6C06FC1F2E3A0600981C47 /* PushNotificationPayload.apns */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
