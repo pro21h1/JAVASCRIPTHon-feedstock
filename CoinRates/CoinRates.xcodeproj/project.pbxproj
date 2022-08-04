@@ -310,4 +310,7 @@
 		};
 		0CB336CE1F2BDE4000D1D669 = {
 			isa = PBXGroup;
-			childr
+			children = (
+				0CB336D91F2BDE4000D1D669 /* CoinRates */,
+				0CB336EE1F2BDE4000D1D669 /* CoinRatesTests */,
+				0C6C06
