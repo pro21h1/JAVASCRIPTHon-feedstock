@@ -305,4 +305,9 @@
 				0C6C07241F2E5B1500981C47 /* ExchangeRateDataStore.swift */,
 				0C6C07271F2E5BC100981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift */,
 			);
-			na
+			name = Persistence;
+			sourceTree = "<group>";
+		};
+		0CB336CE1F2BDE4000D1D669 = {
+			isa = PBXGroup;
+			childr
