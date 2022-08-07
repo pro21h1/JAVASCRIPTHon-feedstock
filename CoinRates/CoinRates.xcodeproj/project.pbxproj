@@ -319,4 +319,8 @@
 			);
 			sourceTree = "<group>";
 		};
-		0CB336D81F2BDE4000D
+		0CB336D81F2BDE4000D1D669 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0CB336D71F2BDE4000D1D669 /* CoinRates.app */,
+	
