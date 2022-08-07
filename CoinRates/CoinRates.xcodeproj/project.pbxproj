@@ -314,4 +314,9 @@
 				0CB336D91F2BDE4000D1D669 /* CoinRates */,
 				0CB336EE1F2BDE4000D1D669 /* CoinRatesTests */,
 				0C6C06EB1F2E3A0500981C47 /* CoinRatesWatchApp */,
-				0C6C06FA1F2E3A0600981C47 /* CoinRatesWatchApp Extension *
+				0C6C06FA1F2E3A0600981C47 /* CoinRatesWatchApp Extension */,
+				0CB336D81F2BDE4000D1D669 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0CB336D81F2BDE4000D
