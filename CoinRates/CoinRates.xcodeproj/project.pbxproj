@@ -323,4 +323,6 @@
 			isa = PBXGroup;
 			children = (
 				0CB336D71F2BDE4000D1D669 /* CoinRates.app */,
-	
+				0CB336EB1F2BDE4000D1D669 /* CoinRatesTests.xctest */,
+				0C6C06EA1F2E3A0500981C47 /* CoinRatesWatchApp.app */,
+				0C6C06F61F2E3A060098
