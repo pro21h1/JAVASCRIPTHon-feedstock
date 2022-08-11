@@ -330,3 +330,8 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		0CB336D91F2BDE4000D1D669 /* CoinRates */ = {
+			isa = PBXGroup;
+			children = (
+				0C6C06B91F2CAD5B00981C47 /* App */,
+		
