@@ -334,4 +334,9 @@
 			isa = PBXGroup;
 			children = (
 				0C6C06B91F2CAD5B00981C47 /* App */,
-		
+				0C6C06C01F2CB26000981C47 /* CoinRatesKit */,
+			);
+			path = CoinRates;
+			sourceTree = "<group>";
+		};
+		0CB336EE1F2BDE400
