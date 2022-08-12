@@ -339,4 +339,7 @@
 			path = CoinRates;
 			sourceTree = "<group>";
 		};
-		0CB336EE1F2BDE400
+		0CB336EE1F2BDE4000D1D669 /* CoinRatesTests */ = {
+			isa = PBXGroup;
+			children = (
+				0CB336EF1F2BDE4000D1D669 /* CoinRatesTest
