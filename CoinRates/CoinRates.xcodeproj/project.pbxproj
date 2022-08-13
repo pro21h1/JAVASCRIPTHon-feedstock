@@ -342,4 +342,7 @@
 		0CB336EE1F2BDE4000D1D669 /* CoinRatesTests */ = {
 			isa = PBXGroup;
 			children = (
-				0CB336EF1F2BDE4000D1D669 /* CoinRatesTest
+				0CB336EF1F2BDE4000D1D669 /* CoinRatesTests.swift */,
+				0C6C06DB1F2E035700981C47 /* CoinRatesURLPathTests.swift */,
+				0CB336F11F2BDE4000D1D669 /* Info.plist */,
+				0C6C
