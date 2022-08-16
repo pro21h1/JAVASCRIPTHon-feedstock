@@ -345,4 +345,7 @@
 				0CB336EF1F2BDE4000D1D669 /* CoinRatesTests.swift */,
 				0C6C06DB1F2E035700981C47 /* CoinRatesURLPathTests.swift */,
 				0CB336F11F2BDE4000D1D669 /* Info.plist */,
-				0C6C
+				0C6C06E51F2E25BE00981C47 /* validData.json */,
+				0C6C06E41F2E25BE00981C47 /* invalidData.json */,
+			);
+			path = CoinRatesTests
