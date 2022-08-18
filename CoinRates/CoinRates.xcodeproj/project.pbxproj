@@ -354,4 +354,6 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0C6C06E91F2E3A0500981C4
+		0C6C06E91F2E3A0500981C47 /* CoinRatesWatchApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0C6C070D1F2E3A06
