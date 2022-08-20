@@ -360,4 +360,8 @@
 			buildPhases = (
 				0C6C06E81F2E3A0500981C47 /* Resources */,
 				0C6C070C1F2E3A0600981C47 /* Embed App Extensions */,
-	
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0C6C06F91F2E3A0600981C47 /* PBXTarge
