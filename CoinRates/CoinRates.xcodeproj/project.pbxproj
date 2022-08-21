@@ -364,4 +364,8 @@
 			buildRules = (
 			);
 			dependencies = (
-				0C6C06F91F2E3A0600981C47 /* PBXTarge
+				0C6C06F91F2E3A0600981C47 /* PBXTargetDependency */,
+			);
+			name = CoinRatesWatchApp;
+			productName = CoinRatesWatchApp;
+			productReference 
