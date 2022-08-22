@@ -369,4 +369,7 @@
 			name = CoinRatesWatchApp;
 			productName = CoinRatesWatchApp;
 			productReference = 0C6C06EA1F2E3A0500981C47 /* CoinRatesWatchApp.app */;
-			productType = "com.apple.product-type.a
+			productType = "com.apple.product-type.application.watchapp2";
+		};
+		0C6C06F51F2E3A0600981C47 /* CoinRatesWatchApp Extension */ = {
+			isa = PBXNativeTarget;
