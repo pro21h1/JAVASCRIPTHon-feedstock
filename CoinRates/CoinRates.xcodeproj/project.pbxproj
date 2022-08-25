@@ -376,4 +376,9 @@
 			buildConfigurationList = 0C6C07091F2E3A0600981C47 /* Build configuration list for PBXNativeTarget "CoinRatesWatchApp Extension" */;
 			buildPhases = (
 				0C6C06F21F2E3A0600981C47 /* Sources */,
-				0C6C06F31F2E3A0600981C47 
+				0C6C06F31F2E3A0600981C47 /* Frameworks */,
+				0C6C06F41F2E3A0600981C47 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencie
