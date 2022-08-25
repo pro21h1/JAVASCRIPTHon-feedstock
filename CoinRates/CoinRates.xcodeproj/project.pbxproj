@@ -381,4 +381,8 @@
 			);
 			buildRules = (
 			);
-			dependencie
+			dependencies = (
+			);
+			name = "CoinRatesWatchApp Extension";
+			productName = "CoinRatesWatchApp Extension";
+			productRefere
