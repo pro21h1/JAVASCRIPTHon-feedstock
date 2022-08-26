@@ -385,4 +385,7 @@
 			);
 			name = "CoinRatesWatchApp Extension";
 			productName = "CoinRatesWatchApp Extension";
-			productRefere
+			productReference = 0C6C06F61F2E3A0600981C47 /* CoinRatesWatchApp Extension.appex */;
+			productType = "com.apple.product-type.watchkit2-extension";
+		};
+		
