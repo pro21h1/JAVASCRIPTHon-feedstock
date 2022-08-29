@@ -390,4 +390,6 @@
 		};
 		0CB336D61F2BDE4000D1D669 /* CoinRates */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0CB336F41F2BDE4000D1D669 /* Build conf
+			buildConfigurationList = 0CB336F41F2BDE4000D1D669 /* Build configuration list for PBXNativeTarget "CoinRates" */;
+			buildPhases = (
+				0CB336D31F2BDE4000D1D669 /* Sources */,
