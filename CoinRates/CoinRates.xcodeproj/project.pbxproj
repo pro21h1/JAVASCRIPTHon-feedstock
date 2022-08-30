@@ -395,4 +395,9 @@
 				0CB336D31F2BDE4000D1D669 /* Sources */,
 				0CB336D41F2BDE4000D1D669 /* Frameworks */,
 				0CB336D51F2BDE4000D1D669 /* Resources */,
-				0C6C07101F2E3A0600981C47 /* Embed 
+				0C6C07101F2E3A0600981C47 /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0C6C07071F2E3A0600981C47 /* PBXTargetD
