@@ -400,4 +400,8 @@
 			buildRules = (
 			);
 			dependencies = (
-				0C6C07071F2E3A0600981C47 /* PBXTargetD
+				0C6C07071F2E3A0600981C47 /* PBXTargetDependency */,
+			);
+			name = CoinRates;
+			productName = CoinRates;
+			productReference = 0CB336D71F2BDE4000D1D669 /* CoinRates.
