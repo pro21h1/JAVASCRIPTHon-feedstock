@@ -404,4 +404,7 @@
 			);
 			name = CoinRates;
 			productName = CoinRates;
-			productReference = 0CB336D71F2BDE4000D1D669 /* CoinRates.
+			productReference = 0CB336D71F2BDE4000D1D669 /* CoinRates.app */;
+			productType = "com.apple.product-type.application";
+		};
+		0CB336EA1F2BDE4000D1D669 /* CoinRatesTe
