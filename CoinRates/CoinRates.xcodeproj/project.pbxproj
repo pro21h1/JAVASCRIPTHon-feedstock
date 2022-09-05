@@ -411,4 +411,8 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0CB336F71F2BDE4000D1D669 /* Build configuration list for PBXNativeTarget "CoinRatesTests" */;
 			buildPhases = (
-				0CB336E71F2BDE4000D1D669 /* Sources *
+				0CB336E71F2BDE4000D1D669 /* Sources */,
+				0CB336E81F2BDE4000D1D669 /* Frameworks */,
+				0CB336E91F2BDE4000D1D669 /* Resources */,
+			);
+	
