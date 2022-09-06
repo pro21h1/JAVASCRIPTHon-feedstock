@@ -415,4 +415,9 @@
 				0CB336E81F2BDE4000D1D669 /* Frameworks */,
 				0CB336E91F2BDE4000D1D669 /* Resources */,
 			);
-	
+			buildRules = (
+			);
+			dependencies = (
+				0CB336ED1F2BDE4000D1D669 /* PBXTargetDependency */,
+			);
+			name = CoinRatesTests;
