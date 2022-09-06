@@ -421,3 +421,6 @@
 				0CB336ED1F2BDE4000D1D669 /* PBXTargetDependency */,
 			);
 			name = CoinRatesTests;
+			productName = CoinRatesTests;
+			productReference = 0CB336EB1F2BDE4000D1D669 /* CoinRatesTests.xctest */;
+			productType = "co
