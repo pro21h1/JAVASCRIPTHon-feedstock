@@ -435,4 +435,8 @@
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = "Emanuel Munteanu";
 				TargetAttributes = {
-					0C6C06E9
+					0C6C06E91F2E3A0500981C47 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = PB7HDSB92T;
+						LastSwiftMigration = 0830;
+		
