@@ -447,4 +447,8 @@
 						};
 					};
 					0C6C06F51F2E3A0600981C47 = {
-						CreatedOnToolsVersion = 8.
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = PB7HDSB92T;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.a
