@@ -451,4 +451,9 @@
 						DevelopmentTeam = PB7HDSB92T;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
-							com.a
+							com.apple.BackgroundModes.watchos.extension = {
+								enabled = 1;
+							};
+						};
+					};
+					0CB336D61F2BDE
