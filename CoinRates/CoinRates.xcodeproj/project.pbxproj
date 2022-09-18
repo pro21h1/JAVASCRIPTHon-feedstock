@@ -469,4 +469,8 @@
 					0CB336EA1F2BDE4000D1D669 = {
 						CreatedOnToolsVersion = 8.3.3;
 						ProvisioningStyle = Automatic;
-						TestTarg
+						TestTargetID = 0CB336D61F2BDE4000D1D669;
+					};
+				};
+			};
+			buildConfigurationList = 0CB336D21F2BDE4000D1D669 /* Build con
