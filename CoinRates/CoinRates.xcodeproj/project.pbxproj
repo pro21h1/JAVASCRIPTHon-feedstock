@@ -476,4 +476,9 @@
 			buildConfigurationList = 0CB336D21F2BDE4000D1D669 /* Build configuration list for PBXProject "CoinRates" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
-			ha
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0CB336CE1F2BDE4000D1D669;
