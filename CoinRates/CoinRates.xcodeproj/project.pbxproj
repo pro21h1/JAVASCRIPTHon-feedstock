@@ -482,3 +482,7 @@
 				Base,
 			);
 			mainGroup = 0CB336CE1F2BDE4000D1D669;
+			productRefGroup = 0CB336D81F2BDE4000D1D669 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+	
