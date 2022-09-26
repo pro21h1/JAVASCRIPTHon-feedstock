@@ -490,4 +490,9 @@
 				0CB336EA1F2BDE4000D1D669 /* CoinRatesTests */,
 				0C6C06E91F2E3A0500981C47 /* CoinRatesWatchApp */,
 				0C6C06F51F2E3A0600981C47 /* CoinRatesWatchApp Extension */,
-			)
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0C6C06E81F2E3A0500981C47 /* Re
