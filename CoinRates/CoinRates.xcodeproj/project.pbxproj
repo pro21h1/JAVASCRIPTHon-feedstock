@@ -495,4 +495,8 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		0C6C06E81F2E3A0500981C47 /* Re
+		0C6C06E81F2E3A0500981C47 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0C6C06F01F2E3A
