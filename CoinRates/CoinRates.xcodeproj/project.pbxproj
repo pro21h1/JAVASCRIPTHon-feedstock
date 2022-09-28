@@ -505,4 +505,7 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		0C6C06F41F2E3A0600981C47 /* Resources */ = {
-			isa = PBXResources
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0C6C07041F2E3A0600981C47 /* Assets.xcassets in R
