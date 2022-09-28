@@ -501,4 +501,8 @@
 			files = (
 				0C6C06F01F2E3A0500981C47 /* Assets.xcassets in Resources */,
 				0C6C06EE1F2E3A0500981C47 /* Interface.storyboard in Resources */,
-			)
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0C6C06F41F2E3A0600981C47 /* Resources */ = {
+			isa = PBXResources
