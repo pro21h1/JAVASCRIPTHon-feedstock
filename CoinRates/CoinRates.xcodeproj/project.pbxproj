@@ -512,4 +512,8 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0CB336D51F2BDE4000D1D669 /* Resources
+		0CB336D51F2BDE4000D1D669 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0CB336E51F2BDE4000D1D669 /* Laun
