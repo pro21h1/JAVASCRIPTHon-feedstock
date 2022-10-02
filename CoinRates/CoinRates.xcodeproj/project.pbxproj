@@ -516,4 +516,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0CB336E51F2BDE4000D1D669 /* Laun
+				0CB336E51F2BDE4000D1D669 /* LaunchScreen.storyboard in Resources */,
+				0C6C072C1F2E7BD400981C47 /* currentPriceData.json in Resources */,
+				0C6C06E
