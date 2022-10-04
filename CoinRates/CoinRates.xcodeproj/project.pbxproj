@@ -520,4 +520,8 @@
 				0C6C072C1F2E7BD400981C47 /* currentPriceData.json in Resources */,
 				0C6C06E31F2E243A00981C47 /* data.json in Resources */,
 				0CB336E21F2BDE4000D1D669 /* Assets.xcassets in Resources */,
-			
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0CB336E91F2BDE4000D1D669 /* Resources */ = {
+			isa = PBXResource
