@@ -537,4 +537,6 @@
 /* Begin PBXSourcesBuildPhase section */
 		0C6C06F21F2E3A0600981C47 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
-			buil
+			buildActionMask = 2147483647;
+			files = (
+				0C6C072A1F2E613000981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift 
