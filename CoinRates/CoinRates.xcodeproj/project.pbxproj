@@ -539,4 +539,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0C6C072A1F2E613000981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift 
+				0C6C072A1F2E613000981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift in Sources */,
+				0C6C071D1F2E455B00981C47 /* RemoteConnection.swift in Sources */,
+				0C6C071C1F2E455600981C47 /* Connectio
