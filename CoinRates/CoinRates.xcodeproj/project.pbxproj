@@ -543,4 +543,5 @@
 				0C6C071D1F2E455B00981C47 /* RemoteConnection.swift in Sources */,
 				0C6C071C1F2E455600981C47 /* Connection.swift in Sources */,
 				0C6C07181F2E424600981C47 /* ExchangeRate.swift in Sources */,
-				0C6C07001F2E3A
+				0C6C07001F2E3A0600981C47 /* ExtensionDelegate.swift in Sources */,
+				0C6C07291F2E60E000981C47 /* ExchangeRateDataStore.
