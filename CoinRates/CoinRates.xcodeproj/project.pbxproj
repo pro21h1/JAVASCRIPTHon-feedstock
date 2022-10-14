@@ -544,4 +544,6 @@
 				0C6C071C1F2E455600981C47 /* Connection.swift in Sources */,
 				0C6C07181F2E424600981C47 /* ExchangeRate.swift in Sources */,
 				0C6C07001F2E3A0600981C47 /* ExtensionDelegate.swift in Sources */,
-				0C6C07291F2E60E000981C47 /* ExchangeRateDataStore.
+				0C6C07291F2E60E000981C47 /* ExchangeRateDataStore.swift in Sources */,
+				0C6C07191F2E431C00981C47 /* Date+Additions.swift in Sources */,
+				0C6C07171F2E40C600981C47 /* 
