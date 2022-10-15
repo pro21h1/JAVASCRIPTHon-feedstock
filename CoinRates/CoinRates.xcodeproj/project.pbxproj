@@ -547,4 +547,6 @@
 				0C6C07291F2E60E000981C47 /* ExchangeRateDataStore.swift in Sources */,
 				0C6C07191F2E431C00981C47 /* Date+Additions.swift in Sources */,
 				0C6C07171F2E40C600981C47 /* CoinRatesRowController.swift in Sources */,
-				0C6C071B1F2E451B00981C47 /* BitcoinRateController.swift in
+				0C6C071B1F2E451B00981C47 /* BitcoinRateController.swift in Sources */,
+				0C6C071E1F2E49F100981C47 /* CoinRatesInterfaceController.swift in Sources */,
+				0C6C071A1F2E45
