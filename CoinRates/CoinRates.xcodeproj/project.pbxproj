@@ -549,4 +549,8 @@
 				0C6C07171F2E40C600981C47 /* CoinRatesRowController.swift in Sources */,
 				0C6C071B1F2E451B00981C47 /* BitcoinRateController.swift in Sources */,
 				0C6C071E1F2E49F100981C47 /* CoinRatesInterfaceController.swift in Sources */,
-				0C6C071A1F2E45
+				0C6C071A1F2E451300981C47 /* Handlers.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0CB336D31
