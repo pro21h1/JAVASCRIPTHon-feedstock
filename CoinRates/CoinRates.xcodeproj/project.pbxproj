@@ -558,4 +558,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				0C6C06CA1F2CBC0600981C47 /* MockedConnection.swift in Sources */,
-				0C6C06BE1F2CADCC00981C47 /* AppDelegate.swift in 
+				0C6C06BE1F2CADCC00981C47 /* AppDelegate.swift in Sources */,
+				0C6C07251F2E5B1500981C47 /* ExchangeRateDataStore.swift in Sources */,
+				0C6C06C81F2CBA8F00981C47 /* RemoteCo
