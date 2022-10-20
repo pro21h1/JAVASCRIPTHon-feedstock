@@ -562,4 +562,6 @@
 				0C6C07251F2E5B1500981C47 /* ExchangeRateDataStore.swift in Sources */,
 				0C6C06C81F2CBA8F00981C47 /* RemoteConnection.swift in Sources */,
 				0C6C06DF1F2E0B6900981C47 /* Date+Additions.swift in Sources */,
-				0C6C07281F2E5BC100981C
+				0C6C07281F2E5BC100981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift in Sources */,
+				0C6C06DA1F2DEBBB00981C47 /* CoinRateCellViewModel.swift in Sources */,
+		
