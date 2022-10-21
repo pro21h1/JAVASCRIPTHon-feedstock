@@ -565,4 +565,6 @@
 				0C6C07281F2E5BC100981C47 /* ExchangeRateDataStoreDiskUserPrefs.swift in Sources */,
 				0C6C06DA1F2DEBBB00981C47 /* CoinRateCellViewModel.swift in Sources */,
 				0C6C06C61F2CB33000981C47 /* Connection.swift in Sources */,
-				0C6C06D21F2CCA8400981C47 /* MockedBitcoinRateContr
+				0C6C06D21F2CCA8400981C47 /* MockedBitcoinRateController.swift in Sources */,
+				0C6C06D51F2D1EB400981C47 /* CellsRepresentable.swift in Sources */,
+				0C6C06CC1F2CBD36
