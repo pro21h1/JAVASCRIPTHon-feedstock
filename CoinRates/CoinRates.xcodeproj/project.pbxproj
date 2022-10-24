@@ -570,4 +570,6 @@
 				0C6C06CC1F2CBD3600981C47 /* ExchangeRate.swift in Sources */,
 				0C6C06BC1F2CADB800981C47 /* CoinRatesTableViewController.swift in Sources */,
 				0C6C06D01F2CBF6A00981C47 /* BitcoinRateController.swift in Sources */,
-				0C6C06D81F2D22E
+				0C6C06D81F2D22E000981C47 /* CoinRateTableViewCell.swift in Sources */,
+				0C6C06CE1F2CBEE000981C47 /* Handlers.swift in Sources */,
+		
