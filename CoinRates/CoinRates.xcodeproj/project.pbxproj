@@ -572,4 +572,8 @@
 				0C6C06D01F2CBF6A00981C47 /* BitcoinRateController.swift in Sources */,
 				0C6C06D81F2D22E000981C47 /* CoinRateTableViewCell.swift in Sources */,
 				0C6C06CE1F2CBEE000981C47 /* Handlers.swift in Sources */,
-		
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0CB336E71F2BDE4000D1D669 /* Sources */ = {
+			isa = PBXSo
