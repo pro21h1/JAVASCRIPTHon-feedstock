@@ -576,4 +576,7 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		0CB336E71F2BDE4000D1D669 /* Sources */ = {
-			isa = PBXSo
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0CB336F01F2BDE4000D1D669 /* CoinRatesTests.swift in 
