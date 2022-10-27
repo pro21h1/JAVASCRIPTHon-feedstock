@@ -579,4 +579,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0CB336F01F2BDE4000D1D669 /* CoinRatesTests.swift in 
+				0CB336F01F2BDE4000D1D669 /* CoinRatesTests.swift in Sources */,
+				0C6C06DC1F2E035800981C47 /* CoinRatesURLPathTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+	
