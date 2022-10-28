@@ -583,4 +583,8 @@
 				0C6C06DC1F2E035800981C47 /* CoinRatesURLPathTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
-	
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0C6C06F91F2E3A0600981C47 /*
