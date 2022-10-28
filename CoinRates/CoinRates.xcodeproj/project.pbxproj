@@ -587,4 +587,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		0C6C06F91F2E3A0600981C47 /*
+		0C6C06F91F2E3A0600981C47 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0C6C06F51F2E3A0600981C47 /* Coin
