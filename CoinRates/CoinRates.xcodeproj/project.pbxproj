@@ -594,4 +594,5 @@
 		};
 		0C6C07071F2E3A0600981C47 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0C6C06E91F2E3
+			target = 0C6C06E91F2E3A0500981C47 /* CoinRatesWatchApp */;
+			targetProxy = 0C6C07061F2E3A0600981C47 /* PBXCont
