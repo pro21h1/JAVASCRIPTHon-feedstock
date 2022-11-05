@@ -600,4 +600,9 @@
 		0CB336ED1F2BDE4000D1D669 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 0CB336D61F2BDE4000D1D669 /* CoinRates */;
-			targetProxy = 0CB336EC1F2BDE4000D1D669 /* PBXContainerIte
+			targetProxy = 0CB336EC1F2BDE4000D1D669 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		0C6C06EC1F2E3A0500981C47 /* 
