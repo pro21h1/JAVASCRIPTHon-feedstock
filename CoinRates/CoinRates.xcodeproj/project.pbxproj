@@ -608,4 +608,9 @@
 		0C6C06EC1F2E3A0500981C47 /* Interface.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				0C6C06ED1F2E3A0500981C47 /* Base
+				0C6C06ED1F2E3A0500981C47 /* Base */,
+			);
+			name = Interface.storyboard;
+			sourceTree = "<group>";
+		};
+		0CB336E31F2BDE4000D1D669 /* LaunchScreen.sto
