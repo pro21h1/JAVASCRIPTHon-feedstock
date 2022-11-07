@@ -605,4 +605,7 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		0C6C06EC1F2E3A0500981C47 /* 
+		0C6C06EC1F2E3A0500981C47 /* Interface.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0C6C06ED1F2E3A0500981C47 /* Base
