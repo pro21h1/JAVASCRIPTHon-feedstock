@@ -613,4 +613,9 @@
 			name = Interface.storyboard;
 			sourceTree = "<group>";
 		};
-		0CB336E31F2BDE4000D1D669 /* LaunchScreen.sto
+		0CB336E31F2BDE4000D1D669 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0CB336E41F2BDE4000D1D669 /* Base */,
+			);
+			name =
