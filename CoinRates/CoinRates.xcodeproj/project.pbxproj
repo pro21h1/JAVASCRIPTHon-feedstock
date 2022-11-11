@@ -623,4 +623,8 @@
 		};
 /* End PBXVariantGroup section */
 
-/* Begin XCBuildConfiguration sect
+/* Begin XCBuildConfiguration section */
+		0C6C070A1F2E3A0600981C47 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALO
