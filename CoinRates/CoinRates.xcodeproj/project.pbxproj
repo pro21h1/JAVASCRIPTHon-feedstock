@@ -629,4 +629,6 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
-				DEVELOPM
+				DEVELOPMENT_TEAM = PB7HDSB92T;
+				INFOPLIST_FILE = "CoinRatesWatchApp Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(in
