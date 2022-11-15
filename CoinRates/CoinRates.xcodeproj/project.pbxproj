@@ -632,4 +632,6 @@
 				DEVELOPMENT_TEAM = PB7HDSB92T;
 				INFOPLIST_FILE = "CoinRatesWatchApp Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.em.C
+				PRODUCT_BUNDLE_IDENTIFIER = com.em.CoinRates.watchkitapp.watchkitextension;
+				PRODUCT_NAME = "${TARGET_NAME}";
+				PROVISIONING_PROFILE_SPECIFIER
