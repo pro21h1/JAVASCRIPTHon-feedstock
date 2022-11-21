@@ -649,4 +649,5 @@
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = PB7HDSB92T;
-				INFOPLIST_FILE = "CoinRatesWatchAp
+				INFOPLIST_FILE = "CoinRatesWatchApp Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../
