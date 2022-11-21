@@ -647,4 +647,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				"CODE_SIG
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = PB7HDSB92T;
+				INFOPLIST_FILE = "CoinRatesWatchAp
