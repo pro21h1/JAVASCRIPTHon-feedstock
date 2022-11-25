@@ -662,4 +662,7 @@
 			};
 			name = Release;
 		};
-		0C6C0
+		0C6C070E1F2E3A0600981C47 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_
