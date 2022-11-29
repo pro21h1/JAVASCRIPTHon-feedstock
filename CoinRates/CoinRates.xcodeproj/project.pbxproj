@@ -672,4 +672,6 @@
 				DEVELOPMENT_TEAM = PB7HDSB92T;
 				IBSC_MODULE = CoinRatesWatchApp_Extension;
 				INFOPLIST_FILE = CoinRatesWatchApp/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/..
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.em.CoinRates.watchkitapp;
+				PRODUCT
