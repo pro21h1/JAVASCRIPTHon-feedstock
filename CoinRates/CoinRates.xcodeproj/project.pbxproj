@@ -684,3 +684,8 @@
 				TARGETED_DEVICE_FAMILY = 4;
 				WATCHOS_DEPLOYMENT_TARGET = 3.2;
 			};
+			name = Debug;
+		};
+		0C6C070F1F2E3A0600981C47 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
