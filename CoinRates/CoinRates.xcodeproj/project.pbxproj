@@ -694,4 +694,6 @@
 				CLANG_ENABLE_MODULES = YES;
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = PB7HDSB92T;
-				IBSC_MODULE = CoinRatesWatchApp_
+				IBSC_MODULE = CoinRatesWatchApp_Extension;
+				INFOPLIST_FILE = CoinRatesWatchApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @execut
