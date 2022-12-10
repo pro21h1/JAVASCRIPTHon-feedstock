@@ -701,4 +701,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = watchos;
-		
+				SKIP_INSTALL = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "CoinRatesWatchApp/CoinRatesWatchApp-Bridging-Header.h";
+				S
