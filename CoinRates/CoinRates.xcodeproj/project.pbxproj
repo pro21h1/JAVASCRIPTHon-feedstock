@@ -708,4 +708,8 @@
 				WATCHOS_DEPLOYMENT_TARGET = 3.2;
 			};
 			name = Release;
-		
+		};
+		0CB336F21F2BDE4000D1D669 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS
