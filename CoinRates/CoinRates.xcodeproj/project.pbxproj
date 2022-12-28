@@ -762,4 +762,7 @@
 		};
 		0CB336F31F2BDE4000D1D669 /* Release */ = {
 			isa = XCBuildConfiguration;
-			buildS
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_
