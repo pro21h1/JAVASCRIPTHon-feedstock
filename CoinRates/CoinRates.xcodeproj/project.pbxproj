@@ -821,4 +821,7 @@
 			name = Debug;
 		};
 		0CB336F61F2BDE4000D1D669 /* Release */ = {
-			
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_I
