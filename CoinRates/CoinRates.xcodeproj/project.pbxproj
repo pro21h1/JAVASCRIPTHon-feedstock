@@ -836,4 +836,7 @@
 			};
 			name = Release;
 		};
-		0CB336F81F2BDE4000D1D669 /* Debu
+		0CB336F81F2BDE4000D1D669 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = Y
