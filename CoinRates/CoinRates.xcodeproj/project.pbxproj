@@ -839,4 +839,7 @@
 		0CB336F81F2BDE4000D1D669 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = Y
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = CoinRatesTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS
