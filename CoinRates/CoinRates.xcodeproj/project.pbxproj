@@ -851,3 +851,7 @@
 			name = Debug;
 		};
 		0CB336F91F2BDE4000D1D669 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$
