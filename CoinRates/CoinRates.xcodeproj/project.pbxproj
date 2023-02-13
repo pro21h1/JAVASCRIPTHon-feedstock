@@ -862,4 +862,9 @@
 				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CoinRates.app/CoinRates";
 			};
-			name = R
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0C6C07091F2E3A0600981C47 /* Bui
