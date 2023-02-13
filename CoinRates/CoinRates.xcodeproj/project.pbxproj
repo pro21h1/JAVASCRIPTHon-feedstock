@@ -867,4 +867,6 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0C6C07091F2E3A0600981C47 /* Bui
+		0C6C07091F2E3A0600981C47 /* Build configuration list for PBXNativeTarget "CoinRatesWatchApp Extension" */ = {
+			isa = XCConfigurationList;
+			buil
