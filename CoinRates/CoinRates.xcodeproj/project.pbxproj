@@ -875,4 +875,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		0C6C070D1F2E3A0600981C47 /* Build configuration list for
+		0C6C070D1F2E3A0600981C47 /* Build configuration list for PBXNativeTarget "CoinRatesWatchApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0C
