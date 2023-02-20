@@ -881,4 +881,7 @@
 				0C6C070E1F2E3A0600981C47 /* Debug */,
 				0C6C070F1F2E3A0600981C47 /* Release */,
 			);
-			defaultConfigurationIsVis
+			defaultConfigurationIsVisible = 0;
+		};
+		0CB336D21F2BDE4000D1D669 /* Build configuration list for PBXProject "CoinRates" */ = {
+			isa = XCC
