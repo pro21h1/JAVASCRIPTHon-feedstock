@@ -884,4 +884,7 @@
 			defaultConfigurationIsVisible = 0;
 		};
 		0CB336D21F2BDE4000D1D669 /* Build configuration list for PBXProject "CoinRates" */ = {
-			isa = XCC
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0CB336F21F2BDE4000D1D669 /* Debug */,
+				0CB336F31F2BD
