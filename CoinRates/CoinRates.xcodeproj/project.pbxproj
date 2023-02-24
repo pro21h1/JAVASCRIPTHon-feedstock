@@ -898,4 +898,7 @@
 				0CB336F51F2BDE4000D1D669 /* Debug */,
 				0CB336F61F2BDE4000D1D669 /* Release */,
 			);
-		
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0CB336F71F2BDE4000D1D669 /* Build conf
