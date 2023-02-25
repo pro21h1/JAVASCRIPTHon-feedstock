@@ -901,4 +901,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0CB336F71F2BDE4000D1D669 /* Build conf
+		0CB336F71F2BDE4000D1D669 /* Build configuration list for PBXNativeTarget "CoinRatesTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0CB336F81F
