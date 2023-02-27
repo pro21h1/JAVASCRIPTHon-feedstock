@@ -59,3 +59,32 @@ class CoinRatesTests: XCTestCase {
                 XCTAssertTrue(exchangeRates.value!.count == 15, "must be 15 elements in total")
             }
         })
+    }
+    
+    func testBitcoinRateModel() {
+        let path = Bundle(for: CoinRatesTests.self).path(forResource: "validData", ofType: "json")!
+        let data = NSData(contentsOfFile: path)!
+        let json = try! JSONSerialization.jsonObject(with: data as Data, options: []) as! Dictionary<String, Any>
+        let exchangeRates = json.flatMap{ ExchangeRate(currency: .EUR, json: [$0.key: $0.value]) }.sorted{$0.date > $1.date}
+        
+        XCTAssertNotNil(exchangeRates)
+        let lastExchangeRate = exchangeRates.last!
+        XCTAssertEqual(lastExchangeRate.currency, Currency.EUR)
+        XCTAssertEqual(lastExchangeRate.rate, 1690.4341)
+    }
+    
+    func testInvalidBitcoinRateModel() {
+        let path = Bundle(for: CoinRatesTests.self).path(forResource: "invalidData", ofType: "json")!
+        let data = NSData(contentsOfFile: path)!
+        let json = try! JSONSerialization.jsonObject(with: data as Data, options: []) as! Dictionary<String, Any>
+        let exchangeRates = json.flatMap{ ExchangeRate(currency: .EUR, json: [$0.key: $0.value]) }
+        
+        XCTAssertNotNil(exchangeRates)
+        let firstExchangeRate = exchangeRates.first
+        let lastExchangeRate = exchangeRates.last
+        
+        XCTAssertNil(firstExchangeRate)
+        XCTAssertNil(lastExchangeRate)
+    }
+
+}
