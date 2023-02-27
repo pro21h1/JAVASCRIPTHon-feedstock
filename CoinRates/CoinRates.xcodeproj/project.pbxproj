@@ -912,4 +912,5 @@
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 0CB336CF1F2BDE
+	rootObject = 0CB336CF1F2BDE4000D1D669 /* Project object */;
+}
