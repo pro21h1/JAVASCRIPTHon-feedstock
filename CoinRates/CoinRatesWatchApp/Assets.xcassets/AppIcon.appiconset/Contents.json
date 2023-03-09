@@ -7,4 +7,8 @@
       "role" : "notificationCenter",
       "subtype" : "38mm"
     },
-  
+    {
+      "size" : "27.5x27.5",
+      "idiom" : "watch",
+      "scale" : "2x",
+      "role" : "notificatio
