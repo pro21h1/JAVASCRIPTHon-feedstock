@@ -1,4 +1,10 @@
 {
   "images" : [
     {
-      "size" : "24x2
+      "size" : "24x24",
+      "idiom" : "watch",
+      "scale" : "2x",
+      "role" : "notificationCenter",
+      "subtype" : "38mm"
+    },
+  
