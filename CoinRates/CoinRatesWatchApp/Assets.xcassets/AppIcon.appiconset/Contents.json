@@ -18,4 +18,9 @@
       "size" : "29x29",
       "idiom" : "watch",
       "role" : "companionSettings",
-   
+      "scale" : "2x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "watch",
+      "role" : "co
