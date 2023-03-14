@@ -35,4 +35,11 @@
     },
     {
       "size" : "86x86",
-      "idiom" : "w
+      "idiom" : "watch",
+      "scale" : "2x",
+      "role" : "quickLook",
+      "subtype" : "38mm"
+    },
+    {
+      "size" : "98x98",
+  
