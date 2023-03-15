@@ -42,4 +42,11 @@
     },
     {
       "size" : "98x98",
-  
+      "idiom" : "watch",
+      "scale" : "2x",
+      "role" : "quickLook",
+      "subtype" : "42mm"
+    }
+  ],
+  "info" : {
+    "vers
