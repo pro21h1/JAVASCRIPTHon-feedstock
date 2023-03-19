@@ -3,4 +3,6 @@
     <device id="watch38" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
- 
+    <dependencies>
+        <deployment identifier="watchOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCo
