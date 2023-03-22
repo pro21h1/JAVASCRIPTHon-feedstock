@@ -11,4 +11,5 @@
     <scenes>
         <!--Coin Rates Interface Controller-->
         <scene sceneID="aou-V4-d1y">
-  
+            <objects>
+                <controller id="AgC-eL-Hgc" customClass="CoinRatesInterfaceController" customMo
