@@ -7,4 +7,8 @@
         <deployment identifier="watchOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBWatchKitPlugin" version="12029"/>
- 
+    </dependencies>
+    <scenes>
+        <!--Coin Rates Interface Controller-->
+        <scene sceneID="aou-V4-d1y">
+  
