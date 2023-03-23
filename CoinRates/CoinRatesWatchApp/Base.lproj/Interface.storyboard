@@ -14,4 +14,6 @@
             <objects>
                 <controller id="AgC-eL-Hgc" customClass="CoinRatesInterfaceController" customModule="CoinRatesWatchApp_Extension">
                     <items>
-                        <table alignment="left" id="Fv2
+                        <table alignment="left" id="Fv2-jV-9ni">
+                            <items>
+                                <tableRow identifier="ExchangeRow" selectable
