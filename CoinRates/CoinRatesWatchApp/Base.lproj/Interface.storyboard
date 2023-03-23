@@ -12,4 +12,6 @@
         <!--Coin Rates Interface Controller-->
         <scene sceneID="aou-V4-d1y">
             <objects>
-                <controller id="AgC-eL-Hgc" customClass="CoinRatesInterfaceController" customMo
+                <controller id="AgC-eL-Hgc" customClass="CoinRatesInterfaceController" customModule="CoinRatesWatchApp_Extension">
+                    <items>
+                        <table alignment="left" id="Fv2
