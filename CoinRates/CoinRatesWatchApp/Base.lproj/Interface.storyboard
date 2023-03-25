@@ -16,4 +16,5 @@
                     <items>
                         <table alignment="left" id="Fv2-jV-9ni">
                             <items>
-                                <tableRow identifier="ExchangeRow" selectable
+                                <tableRow identifier="ExchangeRow" selectable="NO" id="1MF-7h-AdN" customClass="CoinRatesRowController" customModule="CoinRatesWatchApp_Extension">
+                             
