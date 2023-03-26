@@ -18,4 +18,5 @@
                             <items>
                                 <tableRow identifier="ExchangeRow" selectable="NO" id="1MF-7h-AdN" customClass="CoinRatesRowController" customModule="CoinRatesWatchApp_Extension">
                                     <group key="rootItem" width="1" height="46" alignment="left" layout="vertical" id="9Py-BP-L8K">
-                         
+                                        <items>
+                                            <group width="1" height="20" alignment="left" 
