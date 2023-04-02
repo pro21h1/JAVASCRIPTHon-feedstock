@@ -29,4 +29,7 @@
                                                     <label alignment="left" text="Rate" id="jxH-r9-cRQ"/>
                                                 </items>
                                             </group>
-                                     
+                                        </items>
+                                    </group>
+                                    <connections>
+             
