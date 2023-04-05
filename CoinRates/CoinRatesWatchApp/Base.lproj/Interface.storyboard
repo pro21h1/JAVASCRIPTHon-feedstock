@@ -34,4 +34,8 @@
                                     <connections>
                                         <outlet property="dateLabel" destination="Kjh-au-CIu" id="9dk-sI-2xV"/>
                                         <outlet property="rateLabel" destination="jxH-r9-cRQ" id="YlS-zi-nM4"/>
-                                    </connections
+                                    </connections>
+                                </tableRow>
+                            </items>
+                        </table>
+             
