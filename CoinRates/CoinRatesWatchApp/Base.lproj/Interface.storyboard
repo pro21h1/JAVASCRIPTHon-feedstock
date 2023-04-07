@@ -40,4 +40,7 @@
                         </table>
                     </items>
                     <connections>
-                        <outlet property="exchangeRatesTable" dest
+                        <outlet property="exchangeRatesTable" destination="Fv2-jV-9ni" id="0Yw-IE-Yed"/>
+                    </connections>
+                </controller>
+            </
