@@ -38,4 +38,6 @@
                                 </tableRow>
                             </items>
                         </table>
-             
+                    </items>
+                    <connections>
+                        <outlet property="exchangeRatesTable" dest
