@@ -54,4 +54,5 @@
                         <label alignment="left" text="Alert Label" id="IdU-wH-bcW"/>
                     </items>
                     <notificationCategory key="notificationCategory" identifier="myCategory" id="JfB-70-Muf"/>
-                   
+                    <connections>
+                        <outlet property="notificationAlertLabel" destination="IdU-wH-bcW" id="J
