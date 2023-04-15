@@ -65,4 +65,5 @@
         <!--Notification Controller-->
         <scene sceneID="ZPc-GJ-vnh">
             <objects>
-                <controller id="4sK-HA-Art" customCl
+                <controller id="4sK-HA-Art" customClass="NotificationController" customModule="CoinRatesWatchApp" customModuleProvider="target"/>
+            </objects>
