@@ -6,4 +6,5 @@ class CoinRatesInterfaceController: WKInterfaceController {
     let controller: BitcoinRateHandler
     
     override init() {
-        let 
+        let connection: Connection = RemoteConnection()
+        controller = BitcoinRateController(connection: connection, exchangeRateDataStore
