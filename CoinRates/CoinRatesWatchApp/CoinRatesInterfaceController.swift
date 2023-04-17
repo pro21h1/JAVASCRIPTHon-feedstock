@@ -7,4 +7,8 @@ class CoinRatesInterfaceController: WKInterfaceController {
     
     override init() {
         let connection: Connection = RemoteConnection()
-        controller = BitcoinRateController(connection: connection, exchangeRateDataStore
+        controller = BitcoinRateController(connection: connection, exchangeRateDataStore: ExchangeRateDataStoreDiskUserPrefs(currency: .EUR))
+    }
+    
+    override func awake(withContext context: Any?) {
+   
