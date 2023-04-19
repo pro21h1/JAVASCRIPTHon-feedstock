@@ -14,4 +14,7 @@ class CoinRatesInterfaceController: WKInterfaceController {
         super.awake(withContext: context)
         
         controller.fetchRatesForEUR() { result in
-            Dispat
+            DispatchQueue.main.async {
+                switch result {
+                case .success(let exchangeRates):
+                    self
