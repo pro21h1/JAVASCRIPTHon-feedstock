@@ -17,4 +17,5 @@ class CoinRatesInterfaceController: WKInterfaceController {
             DispatchQueue.main.async {
                 switch result {
                 case .success(let exchangeRates):
-                    self
+                    self.exchangeRatesTable.setNumberOfRows(exchangeRates.count, withRowType: "ExchangeRow")
+                    for index in 0..<self.exc
