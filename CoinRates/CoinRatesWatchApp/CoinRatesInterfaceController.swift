@@ -19,4 +19,6 @@ class CoinRatesInterfaceController: WKInterfaceController {
                 case .success(let exchangeRates):
                     self.exchangeRatesTable.setNumberOfRows(exchangeRates.count, withRowType: "ExchangeRow")
                     for index in 0..<self.exchangeRatesTable.numberOfRows {
-                        if let controller = self.exchangeRatesTable.rowController(at: index) as? C
+                        if let controller = self.exchangeRatesTable.rowController(at: index) as? CoinRatesRowController {
+                            controller.exchangeRate = exchangeRates[index]
+                   
