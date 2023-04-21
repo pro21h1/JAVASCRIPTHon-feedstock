@@ -25,4 +25,9 @@ class CoinRatesInterfaceController: WKInterfaceController {
                     }
                 case .failure(let error):
                     print(error.localizedDescription)
-  
+                }
+                
+            }
+        }
+    }
+}
