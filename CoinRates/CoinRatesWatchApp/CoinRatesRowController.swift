@@ -4,4 +4,7 @@ public class CoinRatesRowController: NSObject {
     @IBOutlet var dateLabel: WKInterfaceLabel!
     @IBOutlet var rateLabel: WKInterfaceLabel!
     
-    var exchangeRate: ExchangeRate
+    var exchangeRate: ExchangeRate? {
+        didSet {
+            if let rate = exchangeRate {
+                dateLabel.setText(rate.date.formatt
