@@ -7,4 +7,7 @@ public class CoinRatesRowController: NSObject {
     var exchangeRate: ExchangeRate? {
         didSet {
             if let rate = exchangeRate {
-                dateLabel.setText(rate.date.formatt
+                dateLabel.setText(rate.date.formattedString())
+                rateLabel.setText("\(rate.rate) \(rate.currency)")
+            }
+        }
