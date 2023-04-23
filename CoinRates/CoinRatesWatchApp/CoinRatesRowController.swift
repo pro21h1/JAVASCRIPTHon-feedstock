@@ -11,3 +11,5 @@ public class CoinRatesRowController: NSObject {
                 rateLabel.setText("\(rate.rate) \(rate.currency)")
             }
         }
+    }
+}
