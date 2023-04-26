@@ -3,4 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
-	<str
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>CoinRates</string>
+	<key>CFBundleExecutable</key>
+	<s
