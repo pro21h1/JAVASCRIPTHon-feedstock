@@ -7,4 +7,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>CoinRates</string>
 	<key>CFBundleExecutable</key>
-	<s
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBu
