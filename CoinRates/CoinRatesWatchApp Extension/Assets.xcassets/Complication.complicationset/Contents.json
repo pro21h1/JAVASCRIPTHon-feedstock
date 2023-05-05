@@ -1,2 +1,6 @@
 {
-  "
+  "assets" : [
+    {
+      "idiom" : "watch",
+      "filename" : "Circular.imageset",
+      "role" : "circular
