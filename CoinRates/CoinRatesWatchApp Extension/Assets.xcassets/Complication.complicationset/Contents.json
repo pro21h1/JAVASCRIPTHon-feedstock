@@ -3,4 +3,12 @@
     {
       "idiom" : "watch",
       "filename" : "Circular.imageset",
-      "role" : "circular
+      "role" : "circular"
+    },
+    {
+      "idiom" : "watch",
+      "filename" : "Extra Large.imageset",
+      "role" : "extra-large"
+    },
+    {
+     
