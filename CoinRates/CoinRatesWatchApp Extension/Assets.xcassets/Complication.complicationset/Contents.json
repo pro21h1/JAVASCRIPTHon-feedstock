@@ -16,4 +16,10 @@
       "role" : "modular"
     },
     {
-      "idiom
+      "idiom" : "watch",
+      "filename" : "Utilitarian.imageset",
+      "role" : "utilitarian"
+    }
+  ],
+  "info" : {
+  
