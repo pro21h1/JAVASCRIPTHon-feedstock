@@ -1,0 +1,8 @@
+
+{
+  "images" : [
+    {
+      "idiom" : "watch",
+      "screenWidth" : "{130,145}",
+      "scale" : "2x"
+    },
