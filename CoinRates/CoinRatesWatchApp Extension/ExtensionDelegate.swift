@@ -23,4 +23,5 @@ class ExtensionDelegate: NSObject, WKExtensionDelegate {
         // Use this method to pause ongoing tasks, disable timers, etc.
     }
 
-    func handle(_ backgroundTasks: Set<WKRefreshBac
+    func handle(_ backgroundTasks: Set<WKRefreshBackgroundTask>) {
+        // Sent when the system needs to launch the application in the background to process tasks. 
