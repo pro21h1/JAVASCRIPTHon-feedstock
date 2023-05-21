@@ -28,4 +28,5 @@ class ExtensionDelegate: NSObject, WKExtensionDelegate {
         for task in backgroundTasks {
             // Use a switch statement to check the task type
             switch task {
-            case let backgroundT
+            case let backgroundTask as WKApplicationRefreshBackgroundTask:
+                // Be sure to complete the background task once you’re done.
