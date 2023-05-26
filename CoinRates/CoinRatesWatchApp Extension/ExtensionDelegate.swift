@@ -35,4 +35,6 @@ class ExtensionDelegate: NSObject, WKExtensionDelegate {
                 // Snapshot tasks have a unique completion call, make sure to set your expiration date
                 snapshotTask.setTaskCompleted(restoredDefaultState: true, estimatedSnapshotExpiration: Date.distantFuture, userInfo: nil)
             case let connectivityTask as WKWatchConnectivityRefreshBackgroundTask:
-               
+                // Be sure to complete the connectivity task once you’re done.
+                connectivityTask.setTaskCompleted()
+  
