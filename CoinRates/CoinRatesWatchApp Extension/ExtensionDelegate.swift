@@ -37,4 +37,5 @@ class ExtensionDelegate: NSObject, WKExtensionDelegate {
             case let connectivityTask as WKWatchConnectivityRefreshBackgroundTask:
                 // Be sure to complete the connectivity task once you’re done.
                 connectivityTask.setTaskCompleted()
-  
+            case let urlSessionTask as WKURLSessionRefreshBackgroundTask:
+                // Be s
