@@ -38,4 +38,7 @@ class ExtensionDelegate: NSObject, WKExtensionDelegate {
                 // Be sure to complete the connectivity task once you’re done.
                 connectivityTask.setTaskCompleted()
             case let urlSessionTask as WKURLSessionRefreshBackgroundTask:
-                // Be s
+                // Be sure to complete the URL session task once you’re done.
+                urlSessionTask.setTaskCompleted()
+            default:
+                //
