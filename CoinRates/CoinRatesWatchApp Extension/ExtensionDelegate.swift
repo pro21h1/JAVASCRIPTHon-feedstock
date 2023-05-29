@@ -41,4 +41,7 @@ class ExtensionDelegate: NSObject, WKExtensionDelegate {
                 // Be sure to complete the URL session task once you’re done.
                 urlSessionTask.setTaskCompleted()
             default:
-                //
+                // make sure to complete unhandled task types
+                task.setTaskCompleted()
+            }
+      
