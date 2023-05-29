@@ -44,4 +44,7 @@ class ExtensionDelegate: NSObject, WKExtensionDelegate {
                 // make sure to complete unhandled task types
                 task.setTaskCompleted()
             }
-      
+        }
+    }
+
+}
