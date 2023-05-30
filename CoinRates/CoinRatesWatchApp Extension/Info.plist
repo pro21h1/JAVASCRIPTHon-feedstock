@@ -4,4 +4,6 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
-	<key>C
+	<key>CFBundleDisplayName</key>
+	<string>CoinRatesWatchApp Extension</string>
+	<key>CFBundleExecutable</
