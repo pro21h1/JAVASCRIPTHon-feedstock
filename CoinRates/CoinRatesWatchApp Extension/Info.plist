@@ -23,4 +23,8 @@
 	<key>NSExtension</key>
 	<dict>
 		<key>NSExtensionAttributes</key>
-		<
+		<dict>
+			<key>WKAppBundleIdentifier</key>
+			<string>com.em.CoinRates.watchkitapp</string>
+		</dict>
+		<key>NSExtens
