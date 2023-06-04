@@ -27,4 +27,9 @@
 			<key>WKAppBundleIdentifier</key>
 			<string>com.em.CoinRates.watchkitapp</string>
 		</dict>
-		<key>NSExtens
+		<key>NSExtensionPointIdentifier</key>
+		<string>com.apple.watchkit</string>
+	</dict>
+	<key>UIBackgroundModes</key>
+	<array/>
+	<key>WKExtensi
